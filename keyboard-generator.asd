@@ -6,4 +6,5 @@
                (:file "label-definitions")
                (:file "keyboard-definitions")
                (:file "tex-generator")
+               (:file "interval-definitions")
                (:file "svg-generator")))

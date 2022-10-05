@@ -27,8 +27,14 @@
 (defun lookup-label-id (id)
   (cdr (assoc id *dict-key-labels*)))
 
+(defparameter *label-range* '(nil . nil))
+
 (defun output-svg-label (a b label-id scene)
   (let ((avg (/ (+ (xp a) (xp b)) 2)))
+    (when (or (null (car *label-range*)) (< avg (car *label-range*)))
+      (setf (car *label-range*) avg))
+    (when (or (null (cdr *label-range*)) (> avg (cdr *label-range*)))
+      (setf (cdr *label-range*) avg))
     (text scene (:x avg
                  :y (- (yp a) (- avg (xp a)) -10)
                  :stroke "black"
@@ -39,6 +45,31 @@
                  )
       (lookup-label-id label-id))))
 
+(defun ratio->xpos (ratio frame-interval xpos-range)
+  (+ (car xpos-range)
+     (* (/ (log ratio) (log frame-interval))
+        (- (cdr xpos-range) (car xpos-range)))))
+
+(defun create-hairpin (a b key-id scene)
+  (let* ((x-center (/ (+ (xp a) (xp b)) 2))
+         (y-center (- (yp a) (- x-center (xp a))))
+         (line-center (ratio->xpos (id->ratio key-id) 16/1 *label-range*)))
+    (draw scene (:circle :cx x-center
+                         :cy y-center
+                         :r 5
+                         :fill "red"))
+    (draw scene (:line :x1 x-center
+                       :y1 y-center
+                       :x2 line-center
+                       :y2 (+ y-center 20)
+                       :stroke "red"))
+    (draw scene (:line :x1 line-center
+                       :y1 (+ y-center 20)
+                       :x2 line-center
+                       :y2 500
+                       :stroke "red"))))
+
+
 (defun write-svg-file (path)
   (setf *svg-scale-factor* 40)
   (setf *svg-y-shift* 370)
@@ -48,14 +79,21 @@
     ;; (draw scene (:circle :cx 200 :cy 150 :r 50) :fill "red")
     (draw scene (:rect :x 0 :y 0 :width "100%" :height "100%"))
 
-    (let ((vertices (generate-vertices)))
+    (let ((vertices (generate-vertices))
+          (*label-range* '(nil . nil)))
       (dolist (row vertices)
         (dolist (key-shape row)
           (path-iterator key-shape (first key-shape) scene)
           (output-svg-label (first key-shape)
                             (first (last key-shape))
                             (third (first key-shape))
-                            scene))))))
+                            scene)))
+      (dolist (row vertices)
+        (dolist (key-shape row)
+          (create-hairpin (first key-shape)
+                          (first (last key-shape))
+                          (third (first key-shape))
+                          scene))))))
 
 
 ;; copy-paste from tex-generator, as reference material
