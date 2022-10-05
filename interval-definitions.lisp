@@ -51,3 +51,25 @@
   (multiple-value-bind (octaves id-class)
       (floor id 36)
     (* (expt 2 octaves) (cdr (assoc id-class *dict-key-31-pitchclass*)))))
+
+
+
+
+
+'(("diesis enarmonico minore")
+  ("diesis enarmonico maggiore / semitono minore")
+  ("semitono maggiore naturale / semitono maggiore accidentale")
+  ("tono minore accidentale")
+  ("tono naturale / tono accidentale")
+  ("tono maggiore accidentale")
+  ("tono maggiore accidentale propinqua / terza minima / terza manca del minore")
+  ("terza minore naturale / terza minore accidentale")
+  ("terza minore propinquissima")
+  ("terza minore propinqua / terza più che minore")
+  ("terza maggiore naturale / terza maggiore accidentale")
+  ("terza maggiore propinquissima")
+  ("terza maggiore propinqua / terza più che maggiore")
+  ("[quarta minima]")
+  ("quarta naturale / quarta accidentale")
+  ("quarta propinquissima")
+  ("salto più che di quarta"))
