@@ -78,9 +78,8 @@
       (path :if-exists :supersede :if-does-not-exist :create)
     ;; (draw scene (:circle :cx 200 :cy 150 :r 50) :fill "red")
     (draw scene (:rect :x 0 :y 0 :width "100%" :height "100%"))
-
-    (let ((vertices (generate-vertices))
-          (*label-range* '(nil . nil)))
+    (let ((vertices (generate-vertices)))
+      (setf *label-range* '(nil . nil))
       (dolist (row vertices)
         (dolist (key-shape row)
           (path-iterator key-shape (first key-shape) scene)
@@ -88,12 +87,21 @@
                             (first (last key-shape))
                             (third (first key-shape))
                             scene)))
+      ;; needs to be separate because `output-svg-label' sets `*label-range*' first.
       (dolist (row vertices)
         (dolist (key-shape row)
           (create-hairpin (first key-shape)
                           (first (last key-shape))
                           (third (first key-shape))
-                          scene))))))
+                          scene)))
+      (loop for interval in *intervals-lantica*
+            for i from 1
+            do (let ((center (list (ratio->xpos (second interval) 16/1 *label-range*)
+                                   20)))
+                 (draw scene (:circle :cx (first center)
+                                      :cy (second center)
+                                      :r 5
+                                      :fill "blue")))))))
 
 
 ;; copy-paste from tex-generator, as reference material
