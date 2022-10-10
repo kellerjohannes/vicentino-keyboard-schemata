@@ -1,7 +1,6 @@
 (in-package :keyboard-generator)
 
 
-
 '("D2" "D5" "D3" "D6" "D1" "D4" "E3" "E6" "E2" "E5" "E1" "E4" "F3" "F1" "F4" "G2" "G5" "G3" "G6" "G1" "G4" "A2" "A5" "A3" "A6" "A1" "A4" "B3" "B6" "B2" "B5" "B1" "B4")
 
 (defun get-31ed2 (degree)
@@ -56,8 +55,8 @@
 
 (defparameter *intervals-lantica*
   `(("unisono, unisonanza"                   1/1 "" "")
-    ("comma [¼ SC]"                          ,(expt 81/80 1/4) "" "")
-    ("comma [1 SC]"                          81/80 "" "")
+    ("comma [¼ syntonisches Komma]"          ,(expt 81/80 1/4) "" "")
+    ("comma [1 syntonisches Komma]"          81/80 "" "")
     ("diesis enarmonico minore"              ,(get-31ed2 2))
     ("diesis enarmonico maggiore"            ,(get-31ed2 3))
     ("semitono minore"                       ,(get-31ed2 3))
@@ -97,3 +96,35 @@
     ("quinta propinqua"                      ,(get-31ed2 20))
     ("salto più che di quinta"               ,(get-31ed2 20))
     ("ottava"                                2/1)))
+
+(defparameter *intervals-pythagorean*
+  `(("Unisono (1:1)" 1/1)
+    ("Komma (531441:524288)" 531441/524288)
+    ("Limma, semitonus minor (256:243)" 256/243)
+    ("Apotome, semitonus major (2187:2048)" 2187/2048)
+    ("Tonus (9:8, sesquiottava)" 9/8)
+    ("Semiditonus (32:27)" 32/27)
+    ("Ditonus (81:64)" 81/64)
+    ("Diatessaron (4:3, sesquitertia)" 4/3)
+    ("Diapente (3:2, sesquialtera)" 3/2)
+    ("Hexachordum minor (128:81)" 128/81)
+    ("Hexachordum minor (27:16)" 27/16)
+    ("Diapason (2:1, dupla)" 2/1)))
+
+(defparameter *intervals-just*
+  `(("1:1 [Unisono]" 1/1)
+    ("81:80 [syntonisches Komma]" 81/80)
+    ("25:24 [chromatischer Halbton, übermässige Prime]" 25/24)
+    ("16:15 [diatonischer Halbton, kleine Sekunde]" 16/15)
+    ("10:9 [kleiner Ganzton, grosse Sekunde]" 10/9)
+    ("9:8 [grosser Ganzton, grosse Sekunde]" 9/8)
+    ("8:7 [septimaler Ganzton]" 8/7)
+    ("7:6 [septimale Terz]" 7/6)
+    ("6:5 [kleine Terz]" 6/5)
+    ("5:4 [grosse Terz]" 5/4)
+    ("4:3 [Quarte]" 4/3)
+    ("3:2 [Quinte]" 3/2)
+    ("8:5 [kleine Sexte]" 8/5)
+    ("5:3 [grosse Sexte]" 5/3)
+    ("7:4 [natürliche Septime]" 7/4)
+    ("2:1 [Oktave]" 2/1)))
