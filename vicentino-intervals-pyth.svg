@@ -1,0 +1,118 @@
+<?xml version="1.0" standalone="no"?>
+<svg height="460" width="5100" version="1.2" id="toplevel"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+  <text x="0" y="0" stroke="black" fill="black" font-family="Times, serif"
+       font-size="35" text-anchor="end" transform="translate(60,30) rotate(270)">
+    Pythagoreische Intervalle.
+  </text>
+  <line x1="181.00" y1="0" x2="181.00" y2="100%" stroke="black" stroke-width="3"/>
+  <circle cx="181.00" cy="50" r="4" fill="black"/>
+  <circle cx="181.00" cy="50" r="4" fill="black"/>
+  <line x1="181.00" y1="50" x2="181.00" y2="50" stroke="black" stroke-width="3"/>
+  <text x="196.00" y="56" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Unisono (1:1)
+  </text>
+  <line x1="204.16" y1="0" x2="204.16" y2="100%" stroke="gray" stroke-width="1"/>
+  <circle cx="181.00" cy="80" r="4" fill="black"/>
+  <circle cx="204.16" cy="80" r="4" fill="black"/>
+  <line x1="181.00" y1="80" x2="204.16" y2="80" stroke="black" stroke-width="3"/>
+  <text x="219.16" y="86" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Komma (531441:524288)
+  </text>
+  <line x1="270.05" y1="0" x2="270.05" y2="100%" stroke="gray" stroke-width="1"/>
+  <circle cx="181.00" cy="110" r="4" fill="black"/>
+  <circle cx="270.05" cy="110" r="4" fill="black"/>
+  <line x1="181.00" y1="110" x2="270.05" y2="110" stroke="black"
+        stroke-width="3"/>
+  <text x="285.05" y="116" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Limma, semitonus minor (256:243)
+  </text>
+  <line x1="293.21" y1="0" x2="293.21" y2="100%" stroke="gray" stroke-width="1"/>
+  <circle cx="181.00" cy="140" r="4" fill="black"/>
+  <circle cx="293.21" cy="140" r="4" fill="black"/>
+  <line x1="181.00" y1="140" x2="293.21" y2="140" stroke="black"
+        stroke-width="3"/>
+  <text x="308.21" y="146" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Apotome, semitonus major (2187:2048)
+  </text>
+  <line x1="382.26" y1="0" x2="382.26" y2="100%" stroke="gray" stroke-width="1"/>
+  <circle cx="181.00" cy="170" r="4" fill="black"/>
+  <circle cx="382.26" cy="170" r="4" fill="black"/>
+  <line x1="181.00" y1="170" x2="382.26" y2="170" stroke="black"
+        stroke-width="3"/>
+  <text x="397.26" y="176" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Tonus (9:8, sesquiottava)
+  </text>
+  <line x1="471.31" y1="0" x2="471.31" y2="100%" stroke="gray" stroke-width="1"/>
+  <circle cx="181.00" cy="200" r="4" fill="black"/>
+  <circle cx="471.31" cy="200" r="4" fill="black"/>
+  <line x1="181.00" y1="200" x2="471.31" y2="200" stroke="black"
+        stroke-width="3"/>
+  <text x="486.31" y="206" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Semiditonus (32:27)
+  </text>
+  <line x1="583.52" y1="0" x2="583.52" y2="100%" stroke="gray" stroke-width="1"/>
+  <circle cx="181.00" cy="230" r="4" fill="black"/>
+  <circle cx="583.52" cy="230" r="4" fill="black"/>
+  <line x1="181.00" y1="230" x2="583.52" y2="230" stroke="black"
+        stroke-width="3"/>
+  <text x="598.52" y="236" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Ditonus (81:64)
+  </text>
+  <line x1="672.57" y1="0" x2="672.57" y2="100%" stroke="gray" stroke-width="1"/>
+  <circle cx="181.00" cy="260" r="4" fill="black"/>
+  <circle cx="672.57" cy="260" r="4" fill="black"/>
+  <line x1="181.00" y1="260" x2="672.57" y2="260" stroke="black"
+        stroke-width="3"/>
+  <text x="687.57" y="266" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Diatessaron (4:3, sesquitertia)
+  </text>
+  <line x1="873.83" y1="0" x2="873.83" y2="100%" stroke="gray" stroke-width="1"/>
+  <circle cx="181.00" cy="290" r="4" fill="black"/>
+  <circle cx="873.83" cy="290" r="4" fill="black"/>
+  <line x1="181.00" y1="290" x2="873.83" y2="290" stroke="black"
+        stroke-width="3"/>
+  <text x="888.83" y="296" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Diapente (3:2, sesquialtera)
+  </text>
+  <line x1="962.88" y1="0" x2="962.88" y2="100%" stroke="gray" stroke-width="1"/>
+  <circle cx="181.00" cy="320" r="4" fill="black"/>
+  <circle cx="962.88" cy="320" r="4" fill="black"/>
+  <line x1="181.00" y1="320" x2="962.88" y2="320" stroke="black"
+        stroke-width="3"/>
+  <text x="977.88" y="326" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Hexachordum minor (128:81)
+  </text>
+  <line x1="1075.09" y1="0" x2="1075.09" y2="100%" stroke="gray"
+        stroke-width="1"/>
+  <circle cx="181.00" cy="350" r="4" fill="black"/>
+  <circle cx="1075.09" cy="350" r="4" fill="black"/>
+  <line x1="181.00" y1="350" x2="1075.09" y2="350" stroke="black"
+        stroke-width="3"/>
+  <text x="1090.09" y="356" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Hexachordum minor (27:16)
+  </text>
+  <line x1="1365.40" y1="0" x2="1365.40" y2="100%" stroke="gray"
+        stroke-width="1"/>
+  <circle cx="181.00" cy="380" r="4" fill="black"/>
+  <circle cx="1365.40" cy="380" r="4" fill="black"/>
+  <line x1="181.00" y1="380" x2="1365.40" y2="380" stroke="black"
+        stroke-width="3"/>
+  <text x="1380.40" y="386" font-size="25" font-family="Times, serif"
+       stroke="black" fill="black">
+    Diapason (2:1, dupla)
+  </text>
+</svg>

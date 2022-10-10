@@ -1,0 +1,1752 @@
+<?xml version="1.0" standalone="no"?>
+<svg height="1000" width="5100" version="1.2" id="toplevel"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+  <text x="0" y="0" stroke="black" fill="black" font-family="Times, serif"
+       font-size="35" text-anchor="end" transform="translate(60,30) rotate(270)">
+    Ordini 1-5 in ¼-Komma-mitteltönig, G♭·-B♯, Ordine 6 in reinen Quinten.
+  </text>
+  <line x1="100.00" y1="900.00" x2="100.00" y2="738.00" stroke="gray"/>
+  <line x1="100.00" y1="738.00" x2="100.00" y2="525.60" stroke="gray"/>
+  <line x1="100.00" y1="525.60" x2="208.90" y2="525.60" stroke="gray"/>
+  <line x1="208.90" y1="525.60" x2="208.90" y2="738.00" stroke="gray"/>
+  <line x1="208.90" y1="738.00" x2="262.00" y2="738.00" stroke="gray"/>
+  <line x1="262.00" y1="738.00" x2="262.00" y2="900.00" stroke="gray"/>
+  <line x1="262.00" y1="900.00" x2="100.00" y2="900.00" stroke="gray"/>
+  <text x="181.00" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C1
+  </text>
+  <line x1="269.20" y1="900.00" x2="269.20" y2="738.00" stroke="gray"/>
+  <line x1="269.20" y1="738.00" x2="322.30" y2="738.00" stroke="gray"/>
+  <line x1="322.30" y1="738.00" x2="322.30" y2="525.60" stroke="gray"/>
+  <line x1="322.30" y1="525.60" x2="378.10" y2="525.60" stroke="gray"/>
+  <line x1="378.10" y1="525.60" x2="378.10" y2="738.00" stroke="gray"/>
+  <line x1="378.10" y1="738.00" x2="431.20" y2="738.00" stroke="gray"/>
+  <line x1="431.20" y1="738.00" x2="431.20" y2="900.00" stroke="gray"/>
+  <line x1="431.20" y1="900.00" x2="269.20" y2="900.00" stroke="gray"/>
+  <text x="350.20" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D1
+  </text>
+  <line x1="438.40" y1="900.00" x2="438.40" y2="738.00" stroke="gray"/>
+  <line x1="438.40" y1="738.00" x2="491.50" y2="738.00" stroke="gray"/>
+  <line x1="491.50" y1="738.00" x2="491.50" y2="651.60" stroke="gray"/>
+  <line x1="491.50" y1="651.60" x2="491.50" y2="525.60" stroke="gray"/>
+  <line x1="491.50" y1="525.60" x2="557.20" y2="525.60" stroke="gray"/>
+  <line x1="557.20" y1="525.60" x2="557.20" y2="651.60" stroke="gray"/>
+  <line x1="557.20" y1="651.60" x2="600.40" y2="651.60" stroke="gray"/>
+  <line x1="600.40" y1="651.60" x2="600.40" y2="738.00" stroke="gray"/>
+  <line x1="600.40" y1="738.00" x2="600.40" y2="900.00" stroke="gray"/>
+  <line x1="600.40" y1="900.00" x2="438.40" y2="900.00" stroke="gray"/>
+  <text x="519.40" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E1
+  </text>
+  <line x1="607.60" y1="900.00" x2="607.60" y2="738.00" stroke="gray"/>
+  <line x1="607.60" y1="738.00" x2="607.60" y2="651.60" stroke="gray"/>
+  <line x1="607.60" y1="651.60" x2="650.80" y2="651.60" stroke="gray"/>
+  <line x1="650.80" y1="651.60" x2="650.80" y2="525.60" stroke="gray"/>
+  <line x1="650.80" y1="525.60" x2="716.50" y2="525.60" stroke="gray"/>
+  <line x1="716.50" y1="525.60" x2="716.50" y2="651.60" stroke="gray"/>
+  <line x1="716.50" y1="651.60" x2="716.50" y2="738.00" stroke="gray"/>
+  <line x1="716.50" y1="738.00" x2="769.60" y2="738.00" stroke="gray"/>
+  <line x1="769.60" y1="738.00" x2="769.60" y2="900.00" stroke="gray"/>
+  <line x1="769.60" y1="900.00" x2="607.60" y2="900.00" stroke="gray"/>
+  <text x="688.60" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F1
+  </text>
+  <line x1="776.80" y1="900.00" x2="776.80" y2="738.00" stroke="gray"/>
+  <line x1="776.80" y1="738.00" x2="829.90" y2="738.00" stroke="gray"/>
+  <line x1="829.90" y1="738.00" x2="829.90" y2="525.60" stroke="gray"/>
+  <line x1="829.90" y1="525.60" x2="885.70" y2="525.60" stroke="gray"/>
+  <line x1="885.70" y1="525.60" x2="885.70" y2="738.00" stroke="gray"/>
+  <line x1="885.70" y1="738.00" x2="938.80" y2="738.00" stroke="gray"/>
+  <line x1="938.80" y1="738.00" x2="938.80" y2="900.00" stroke="gray"/>
+  <line x1="938.80" y1="900.00" x2="776.80" y2="900.00" stroke="gray"/>
+  <text x="857.80" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G1
+  </text>
+  <line x1="946.00" y1="900.00" x2="946.00" y2="738.00" stroke="gray"/>
+  <line x1="946.00" y1="738.00" x2="999.10" y2="738.00" stroke="gray"/>
+  <line x1="999.10" y1="738.00" x2="999.10" y2="525.60" stroke="gray"/>
+  <line x1="999.10" y1="525.60" x2="1054.90" y2="525.60" stroke="gray"/>
+  <line x1="1054.90" y1="525.60" x2="1054.90" y2="738.00" stroke="gray"/>
+  <line x1="1054.90" y1="738.00" x2="1108.00" y2="738.00" stroke="gray"/>
+  <line x1="1108.00" y1="738.00" x2="1108.00" y2="900.00" stroke="gray"/>
+  <line x1="1108.00" y1="900.00" x2="946.00" y2="900.00" stroke="gray"/>
+  <text x="1027.00" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A1
+  </text>
+  <line x1="1115.20" y1="900.00" x2="1115.20" y2="738.00" stroke="gray"/>
+  <line x1="1115.20" y1="738.00" x2="1168.30" y2="738.00" stroke="gray"/>
+  <line x1="1168.30" y1="738.00" x2="1168.30" y2="651.60" stroke="gray"/>
+  <line x1="1168.30" y1="651.60" x2="1168.30" y2="525.60" stroke="gray"/>
+  <line x1="1168.30" y1="525.60" x2="1234.00" y2="525.60" stroke="gray"/>
+  <line x1="1234.00" y1="525.60" x2="1234.00" y2="651.60" stroke="gray"/>
+  <line x1="1234.00" y1="651.60" x2="1277.20" y2="651.60" stroke="gray"/>
+  <line x1="1277.20" y1="651.60" x2="1277.20" y2="738.00" stroke="gray"/>
+  <line x1="1277.20" y1="738.00" x2="1277.20" y2="900.00" stroke="gray"/>
+  <line x1="1277.20" y1="900.00" x2="1115.20" y2="900.00" stroke="gray"/>
+  <text x="1196.20" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B1
+  </text>
+  <line x1="1284.40" y1="900.00" x2="1284.40" y2="738.00" stroke="gray"/>
+  <line x1="1284.40" y1="738.00" x2="1284.40" y2="651.60" stroke="gray"/>
+  <line x1="1284.40" y1="651.60" x2="1327.60" y2="651.60" stroke="gray"/>
+  <line x1="1327.60" y1="651.60" x2="1327.60" y2="525.60" stroke="gray"/>
+  <line x1="1327.60" y1="525.60" x2="1393.30" y2="525.60" stroke="gray"/>
+  <line x1="1393.30" y1="525.60" x2="1393.30" y2="651.60" stroke="gray"/>
+  <line x1="1393.30" y1="651.60" x2="1393.30" y2="738.00" stroke="gray"/>
+  <line x1="1393.30" y1="738.00" x2="1446.40" y2="738.00" stroke="gray"/>
+  <line x1="1446.40" y1="738.00" x2="1446.40" y2="900.00" stroke="gray"/>
+  <line x1="1446.40" y1="900.00" x2="1284.40" y2="900.00" stroke="gray"/>
+  <text x="1365.40" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C1
+  </text>
+  <line x1="1453.60" y1="900.00" x2="1453.60" y2="738.00" stroke="gray"/>
+  <line x1="1453.60" y1="738.00" x2="1506.70" y2="738.00" stroke="gray"/>
+  <line x1="1506.70" y1="738.00" x2="1506.70" y2="525.60" stroke="gray"/>
+  <line x1="1506.70" y1="525.60" x2="1562.50" y2="525.60" stroke="gray"/>
+  <line x1="1562.50" y1="525.60" x2="1562.50" y2="738.00" stroke="gray"/>
+  <line x1="1562.50" y1="738.00" x2="1615.60" y2="738.00" stroke="gray"/>
+  <line x1="1615.60" y1="738.00" x2="1615.60" y2="900.00" stroke="gray"/>
+  <line x1="1615.60" y1="900.00" x2="1453.60" y2="900.00" stroke="gray"/>
+  <text x="1534.60" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D1
+  </text>
+  <line x1="1622.80" y1="900.00" x2="1622.80" y2="738.00" stroke="gray"/>
+  <line x1="1622.80" y1="738.00" x2="1675.90" y2="738.00" stroke="gray"/>
+  <line x1="1675.90" y1="738.00" x2="1675.90" y2="651.60" stroke="gray"/>
+  <line x1="1675.90" y1="651.60" x2="1675.90" y2="525.60" stroke="gray"/>
+  <line x1="1675.90" y1="525.60" x2="1741.60" y2="525.60" stroke="gray"/>
+  <line x1="1741.60" y1="525.60" x2="1741.60" y2="651.60" stroke="gray"/>
+  <line x1="1741.60" y1="651.60" x2="1784.80" y2="651.60" stroke="gray"/>
+  <line x1="1784.80" y1="651.60" x2="1784.80" y2="738.00" stroke="gray"/>
+  <line x1="1784.80" y1="738.00" x2="1784.80" y2="900.00" stroke="gray"/>
+  <line x1="1784.80" y1="900.00" x2="1622.80" y2="900.00" stroke="gray"/>
+  <text x="1703.80" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E1
+  </text>
+  <line x1="1792.00" y1="900.00" x2="1792.00" y2="738.00" stroke="gray"/>
+  <line x1="1792.00" y1="738.00" x2="1792.00" y2="651.60" stroke="gray"/>
+  <line x1="1792.00" y1="651.60" x2="1835.20" y2="651.60" stroke="gray"/>
+  <line x1="1835.20" y1="651.60" x2="1835.20" y2="525.60" stroke="gray"/>
+  <line x1="1835.20" y1="525.60" x2="1900.90" y2="525.60" stroke="gray"/>
+  <line x1="1900.90" y1="525.60" x2="1900.90" y2="651.60" stroke="gray"/>
+  <line x1="1900.90" y1="651.60" x2="1900.90" y2="738.00" stroke="gray"/>
+  <line x1="1900.90" y1="738.00" x2="1954.00" y2="738.00" stroke="gray"/>
+  <line x1="1954.00" y1="738.00" x2="1954.00" y2="900.00" stroke="gray"/>
+  <line x1="1954.00" y1="900.00" x2="1792.00" y2="900.00" stroke="gray"/>
+  <text x="1873.00" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F1
+  </text>
+  <line x1="1961.20" y1="900.00" x2="1961.20" y2="738.00" stroke="gray"/>
+  <line x1="1961.20" y1="738.00" x2="2014.30" y2="738.00" stroke="gray"/>
+  <line x1="2014.30" y1="738.00" x2="2014.30" y2="525.60" stroke="gray"/>
+  <line x1="2014.30" y1="525.60" x2="2070.10" y2="525.60" stroke="gray"/>
+  <line x1="2070.10" y1="525.60" x2="2070.10" y2="738.00" stroke="gray"/>
+  <line x1="2070.10" y1="738.00" x2="2123.20" y2="738.00" stroke="gray"/>
+  <line x1="2123.20" y1="738.00" x2="2123.20" y2="900.00" stroke="gray"/>
+  <line x1="2123.20" y1="900.00" x2="1961.20" y2="900.00" stroke="gray"/>
+  <text x="2042.20" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G1
+  </text>
+  <line x1="2130.40" y1="900.00" x2="2130.40" y2="738.00" stroke="gray"/>
+  <line x1="2130.40" y1="738.00" x2="2183.50" y2="738.00" stroke="gray"/>
+  <line x1="2183.50" y1="738.00" x2="2183.50" y2="525.60" stroke="gray"/>
+  <line x1="2183.50" y1="525.60" x2="2239.30" y2="525.60" stroke="gray"/>
+  <line x1="2239.30" y1="525.60" x2="2239.30" y2="738.00" stroke="gray"/>
+  <line x1="2239.30" y1="738.00" x2="2292.40" y2="738.00" stroke="gray"/>
+  <line x1="2292.40" y1="738.00" x2="2292.40" y2="900.00" stroke="gray"/>
+  <line x1="2292.40" y1="900.00" x2="2130.40" y2="900.00" stroke="gray"/>
+  <text x="2211.40" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A1
+  </text>
+  <line x1="2299.60" y1="900.00" x2="2299.60" y2="738.00" stroke="gray"/>
+  <line x1="2299.60" y1="738.00" x2="2352.70" y2="738.00" stroke="gray"/>
+  <line x1="2352.70" y1="738.00" x2="2352.70" y2="651.60" stroke="gray"/>
+  <line x1="2352.70" y1="651.60" x2="2352.70" y2="525.60" stroke="gray"/>
+  <line x1="2352.70" y1="525.60" x2="2418.40" y2="525.60" stroke="gray"/>
+  <line x1="2418.40" y1="525.60" x2="2418.40" y2="651.60" stroke="gray"/>
+  <line x1="2418.40" y1="651.60" x2="2461.60" y2="651.60" stroke="gray"/>
+  <line x1="2461.60" y1="651.60" x2="2461.60" y2="738.00" stroke="gray"/>
+  <line x1="2461.60" y1="738.00" x2="2461.60" y2="900.00" stroke="gray"/>
+  <line x1="2461.60" y1="900.00" x2="2299.60" y2="900.00" stroke="gray"/>
+  <text x="2380.60" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B1
+  </text>
+  <line x1="2468.80" y1="900.00" x2="2468.80" y2="738.00" stroke="gray"/>
+  <line x1="2468.80" y1="738.00" x2="2468.80" y2="651.60" stroke="gray"/>
+  <line x1="2468.80" y1="651.60" x2="2512.00" y2="651.60" stroke="gray"/>
+  <line x1="2512.00" y1="651.60" x2="2512.00" y2="525.60" stroke="gray"/>
+  <line x1="2512.00" y1="525.60" x2="2577.70" y2="525.60" stroke="gray"/>
+  <line x1="2577.70" y1="525.60" x2="2577.70" y2="651.60" stroke="gray"/>
+  <line x1="2577.70" y1="651.60" x2="2577.70" y2="738.00" stroke="gray"/>
+  <line x1="2577.70" y1="738.00" x2="2630.80" y2="738.00" stroke="gray"/>
+  <line x1="2630.80" y1="738.00" x2="2630.80" y2="900.00" stroke="gray"/>
+  <line x1="2630.80" y1="900.00" x2="2468.80" y2="900.00" stroke="gray"/>
+  <text x="2549.80" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C1
+  </text>
+  <line x1="2638.00" y1="900.00" x2="2638.00" y2="738.00" stroke="gray"/>
+  <line x1="2638.00" y1="738.00" x2="2691.10" y2="738.00" stroke="gray"/>
+  <line x1="2691.10" y1="738.00" x2="2691.10" y2="525.60" stroke="gray"/>
+  <line x1="2691.10" y1="525.60" x2="2746.90" y2="525.60" stroke="gray"/>
+  <line x1="2746.90" y1="525.60" x2="2746.90" y2="738.00" stroke="gray"/>
+  <line x1="2746.90" y1="738.00" x2="2800.00" y2="738.00" stroke="gray"/>
+  <line x1="2800.00" y1="738.00" x2="2800.00" y2="900.00" stroke="gray"/>
+  <line x1="2800.00" y1="900.00" x2="2638.00" y2="900.00" stroke="gray"/>
+  <text x="2719.00" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D1
+  </text>
+  <line x1="2807.20" y1="900.00" x2="2807.20" y2="738.00" stroke="gray"/>
+  <line x1="2807.20" y1="738.00" x2="2860.30" y2="738.00" stroke="gray"/>
+  <line x1="2860.30" y1="738.00" x2="2860.30" y2="651.60" stroke="gray"/>
+  <line x1="2860.30" y1="651.60" x2="2860.30" y2="525.60" stroke="gray"/>
+  <line x1="2860.30" y1="525.60" x2="2926.00" y2="525.60" stroke="gray"/>
+  <line x1="2926.00" y1="525.60" x2="2926.00" y2="651.60" stroke="gray"/>
+  <line x1="2926.00" y1="651.60" x2="2969.20" y2="651.60" stroke="gray"/>
+  <line x1="2969.20" y1="651.60" x2="2969.20" y2="738.00" stroke="gray"/>
+  <line x1="2969.20" y1="738.00" x2="2969.20" y2="900.00" stroke="gray"/>
+  <line x1="2969.20" y1="900.00" x2="2807.20" y2="900.00" stroke="gray"/>
+  <text x="2888.20" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E1
+  </text>
+  <line x1="2976.40" y1="900.00" x2="2976.40" y2="738.00" stroke="gray"/>
+  <line x1="2976.40" y1="738.00" x2="2976.40" y2="651.60" stroke="gray"/>
+  <line x1="2976.40" y1="651.60" x2="3019.60" y2="651.60" stroke="gray"/>
+  <line x1="3019.60" y1="651.60" x2="3019.60" y2="525.60" stroke="gray"/>
+  <line x1="3019.60" y1="525.60" x2="3085.30" y2="525.60" stroke="gray"/>
+  <line x1="3085.30" y1="525.60" x2="3085.30" y2="651.60" stroke="gray"/>
+  <line x1="3085.30" y1="651.60" x2="3085.30" y2="738.00" stroke="gray"/>
+  <line x1="3085.30" y1="738.00" x2="3138.40" y2="738.00" stroke="gray"/>
+  <line x1="3138.40" y1="738.00" x2="3138.40" y2="900.00" stroke="gray"/>
+  <line x1="3138.40" y1="900.00" x2="2976.40" y2="900.00" stroke="gray"/>
+  <text x="3057.40" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F1
+  </text>
+  <line x1="3145.60" y1="900.00" x2="3145.60" y2="738.00" stroke="gray"/>
+  <line x1="3145.60" y1="738.00" x2="3198.70" y2="738.00" stroke="gray"/>
+  <line x1="3198.70" y1="738.00" x2="3198.70" y2="525.60" stroke="gray"/>
+  <line x1="3198.70" y1="525.60" x2="3254.50" y2="525.60" stroke="gray"/>
+  <line x1="3254.50" y1="525.60" x2="3254.50" y2="738.00" stroke="gray"/>
+  <line x1="3254.50" y1="738.00" x2="3307.60" y2="738.00" stroke="gray"/>
+  <line x1="3307.60" y1="738.00" x2="3307.60" y2="900.00" stroke="gray"/>
+  <line x1="3307.60" y1="900.00" x2="3145.60" y2="900.00" stroke="gray"/>
+  <text x="3226.60" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G1
+  </text>
+  <line x1="3314.80" y1="900.00" x2="3314.80" y2="738.00" stroke="gray"/>
+  <line x1="3314.80" y1="738.00" x2="3367.90" y2="738.00" stroke="gray"/>
+  <line x1="3367.90" y1="738.00" x2="3367.90" y2="525.60" stroke="gray"/>
+  <line x1="3367.90" y1="525.60" x2="3423.70" y2="525.60" stroke="gray"/>
+  <line x1="3423.70" y1="525.60" x2="3423.70" y2="738.00" stroke="gray"/>
+  <line x1="3423.70" y1="738.00" x2="3476.80" y2="738.00" stroke="gray"/>
+  <line x1="3476.80" y1="738.00" x2="3476.80" y2="900.00" stroke="gray"/>
+  <line x1="3476.80" y1="900.00" x2="3314.80" y2="900.00" stroke="gray"/>
+  <text x="3395.80" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A1
+  </text>
+  <line x1="3484.00" y1="900.00" x2="3484.00" y2="738.00" stroke="gray"/>
+  <line x1="3484.00" y1="738.00" x2="3537.10" y2="738.00" stroke="gray"/>
+  <line x1="3537.10" y1="738.00" x2="3537.10" y2="651.60" stroke="gray"/>
+  <line x1="3537.10" y1="651.60" x2="3537.10" y2="525.60" stroke="gray"/>
+  <line x1="3537.10" y1="525.60" x2="3602.80" y2="525.60" stroke="gray"/>
+  <line x1="3602.80" y1="525.60" x2="3602.80" y2="651.60" stroke="gray"/>
+  <line x1="3602.80" y1="651.60" x2="3646.00" y2="651.60" stroke="gray"/>
+  <line x1="3646.00" y1="651.60" x2="3646.00" y2="738.00" stroke="gray"/>
+  <line x1="3646.00" y1="738.00" x2="3646.00" y2="900.00" stroke="gray"/>
+  <line x1="3646.00" y1="900.00" x2="3484.00" y2="900.00" stroke="gray"/>
+  <text x="3565.00" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B1
+  </text>
+  <line x1="3653.20" y1="900.00" x2="3653.20" y2="738.00" stroke="gray"/>
+  <line x1="3653.20" y1="738.00" x2="3653.20" y2="651.60" stroke="gray"/>
+  <line x1="3653.20" y1="651.60" x2="3696.40" y2="651.60" stroke="gray"/>
+  <line x1="3696.40" y1="651.60" x2="3696.40" y2="525.60" stroke="gray"/>
+  <line x1="3696.40" y1="525.60" x2="3762.10" y2="525.60" stroke="gray"/>
+  <line x1="3762.10" y1="525.60" x2="3762.10" y2="651.60" stroke="gray"/>
+  <line x1="3762.10" y1="651.60" x2="3762.10" y2="738.00" stroke="gray"/>
+  <line x1="3762.10" y1="738.00" x2="3815.20" y2="738.00" stroke="gray"/>
+  <line x1="3815.20" y1="738.00" x2="3815.20" y2="900.00" stroke="gray"/>
+  <line x1="3815.20" y1="900.00" x2="3653.20" y2="900.00" stroke="gray"/>
+  <text x="3734.20" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C1
+  </text>
+  <line x1="3822.40" y1="900.00" x2="3822.40" y2="738.00" stroke="gray"/>
+  <line x1="3822.40" y1="738.00" x2="3875.50" y2="738.00" stroke="gray"/>
+  <line x1="3875.50" y1="738.00" x2="3875.50" y2="525.60" stroke="gray"/>
+  <line x1="3875.50" y1="525.60" x2="3931.30" y2="525.60" stroke="gray"/>
+  <line x1="3931.30" y1="525.60" x2="3931.30" y2="738.00" stroke="gray"/>
+  <line x1="3931.30" y1="738.00" x2="3984.40" y2="738.00" stroke="gray"/>
+  <line x1="3984.40" y1="738.00" x2="3984.40" y2="900.00" stroke="gray"/>
+  <line x1="3984.40" y1="900.00" x2="3822.40" y2="900.00" stroke="gray"/>
+  <text x="3903.40" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D1
+  </text>
+  <line x1="3991.60" y1="900.00" x2="3991.60" y2="738.00" stroke="gray"/>
+  <line x1="3991.60" y1="738.00" x2="4044.70" y2="738.00" stroke="gray"/>
+  <line x1="4044.70" y1="738.00" x2="4044.70" y2="651.60" stroke="gray"/>
+  <line x1="4044.70" y1="651.60" x2="4044.70" y2="525.60" stroke="gray"/>
+  <line x1="4044.70" y1="525.60" x2="4110.40" y2="525.60" stroke="gray"/>
+  <line x1="4110.40" y1="525.60" x2="4110.40" y2="651.60" stroke="gray"/>
+  <line x1="4110.40" y1="651.60" x2="4153.60" y2="651.60" stroke="gray"/>
+  <line x1="4153.60" y1="651.60" x2="4153.60" y2="738.00" stroke="gray"/>
+  <line x1="4153.60" y1="738.00" x2="4153.60" y2="900.00" stroke="gray"/>
+  <line x1="4153.60" y1="900.00" x2="3991.60" y2="900.00" stroke="gray"/>
+  <text x="4072.60" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E1
+  </text>
+  <line x1="4160.80" y1="900.00" x2="4160.80" y2="738.00" stroke="gray"/>
+  <line x1="4160.80" y1="738.00" x2="4160.80" y2="651.60" stroke="gray"/>
+  <line x1="4160.80" y1="651.60" x2="4204.00" y2="651.60" stroke="gray"/>
+  <line x1="4204.00" y1="651.60" x2="4204.00" y2="525.60" stroke="gray"/>
+  <line x1="4204.00" y1="525.60" x2="4269.70" y2="525.60" stroke="gray"/>
+  <line x1="4269.70" y1="525.60" x2="4269.70" y2="651.60" stroke="gray"/>
+  <line x1="4269.70" y1="651.60" x2="4269.70" y2="738.00" stroke="gray"/>
+  <line x1="4269.70" y1="738.00" x2="4322.80" y2="738.00" stroke="gray"/>
+  <line x1="4322.80" y1="738.00" x2="4322.80" y2="900.00" stroke="gray"/>
+  <line x1="4322.80" y1="900.00" x2="4160.80" y2="900.00" stroke="gray"/>
+  <text x="4241.80" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F1
+  </text>
+  <line x1="4330.00" y1="900.00" x2="4330.00" y2="738.00" stroke="gray"/>
+  <line x1="4330.00" y1="738.00" x2="4383.10" y2="738.00" stroke="gray"/>
+  <line x1="4383.10" y1="738.00" x2="4383.10" y2="525.60" stroke="gray"/>
+  <line x1="4383.10" y1="525.60" x2="4438.90" y2="525.60" stroke="gray"/>
+  <line x1="4438.90" y1="525.60" x2="4438.90" y2="738.00" stroke="gray"/>
+  <line x1="4438.90" y1="738.00" x2="4492.00" y2="738.00" stroke="gray"/>
+  <line x1="4492.00" y1="738.00" x2="4492.00" y2="900.00" stroke="gray"/>
+  <line x1="4492.00" y1="900.00" x2="4330.00" y2="900.00" stroke="gray"/>
+  <text x="4411.00" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G1
+  </text>
+  <line x1="4499.20" y1="900.00" x2="4499.20" y2="738.00" stroke="gray"/>
+  <line x1="4499.20" y1="738.00" x2="4552.30" y2="738.00" stroke="gray"/>
+  <line x1="4552.30" y1="738.00" x2="4552.30" y2="525.60" stroke="gray"/>
+  <line x1="4552.30" y1="525.60" x2="4608.10" y2="525.60" stroke="gray"/>
+  <line x1="4608.10" y1="525.60" x2="4608.10" y2="738.00" stroke="gray"/>
+  <line x1="4608.10" y1="738.00" x2="4661.20" y2="738.00" stroke="gray"/>
+  <line x1="4661.20" y1="738.00" x2="4661.20" y2="900.00" stroke="gray"/>
+  <line x1="4661.20" y1="900.00" x2="4499.20" y2="900.00" stroke="gray"/>
+  <text x="4580.20" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A1
+  </text>
+  <line x1="4668.40" y1="900.00" x2="4668.40" y2="738.00" stroke="gray"/>
+  <line x1="4668.40" y1="738.00" x2="4721.50" y2="738.00" stroke="gray"/>
+  <line x1="4721.50" y1="738.00" x2="4721.50" y2="525.60" stroke="gray"/>
+  <line x1="4721.50" y1="525.60" x2="4830.40" y2="525.60" stroke="gray"/>
+  <line x1="4830.40" y1="525.60" x2="4830.40" y2="738.00" stroke="gray"/>
+  <line x1="4830.40" y1="738.00" x2="4830.40" y2="900.00" stroke="gray"/>
+  <line x1="4830.40" y1="900.00" x2="4668.40" y2="900.00" stroke="gray"/>
+  <text x="4749.40" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B1
+  </text>
+  <line x1="4837.60" y1="900.00" x2="4837.60" y2="525.60" stroke="gray"/>
+  <line x1="4837.60" y1="525.60" x2="4999.60" y2="525.60" stroke="gray"/>
+  <line x1="4999.60" y1="525.60" x2="4999.60" y2="900.00" stroke="gray"/>
+  <line x1="4999.60" y1="900.00" x2="4837.60" y2="900.00" stroke="gray"/>
+  <text x="4918.60" y="829.00" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C1
+  </text>
+  <line x1="216.10" y1="730.80" x2="216.10" y2="631.80" stroke="gray"/>
+  <line x1="216.10" y1="631.80" x2="315.10" y2="631.80" stroke="gray"/>
+  <line x1="315.10" y1="631.80" x2="315.10" y2="730.80" stroke="gray"/>
+  <line x1="315.10" y1="730.80" x2="216.10" y2="730.80" stroke="gray"/>
+  <text x="265.60" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D2
+  </text>
+  <line x1="385.30" y1="730.80" x2="385.30" y2="631.80" stroke="gray"/>
+  <line x1="385.30" y1="631.80" x2="484.30" y2="631.80" stroke="gray"/>
+  <line x1="484.30" y1="631.80" x2="484.30" y2="730.80" stroke="gray"/>
+  <line x1="484.30" y1="730.80" x2="385.30" y2="730.80" stroke="gray"/>
+  <text x="434.80" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E2
+  </text>
+  <line x1="723.70" y1="730.80" x2="723.70" y2="631.80" stroke="gray"/>
+  <line x1="723.70" y1="631.80" x2="822.70" y2="631.80" stroke="gray"/>
+  <line x1="822.70" y1="631.80" x2="822.70" y2="730.80" stroke="gray"/>
+  <line x1="822.70" y1="730.80" x2="723.70" y2="730.80" stroke="gray"/>
+  <text x="773.20" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G2
+  </text>
+  <line x1="892.90" y1="730.80" x2="892.90" y2="631.80" stroke="gray"/>
+  <line x1="892.90" y1="631.80" x2="991.90" y2="631.80" stroke="gray"/>
+  <line x1="991.90" y1="631.80" x2="991.90" y2="730.80" stroke="gray"/>
+  <line x1="991.90" y1="730.80" x2="892.90" y2="730.80" stroke="gray"/>
+  <text x="942.40" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A2
+  </text>
+  <line x1="1062.10" y1="730.80" x2="1062.10" y2="631.80" stroke="gray"/>
+  <line x1="1062.10" y1="631.80" x2="1161.10" y2="631.80" stroke="gray"/>
+  <line x1="1161.10" y1="631.80" x2="1161.10" y2="730.80" stroke="gray"/>
+  <line x1="1161.10" y1="730.80" x2="1062.10" y2="730.80" stroke="gray"/>
+  <text x="1111.60" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B2
+  </text>
+  <line x1="1400.50" y1="730.80" x2="1400.50" y2="631.80" stroke="gray"/>
+  <line x1="1400.50" y1="631.80" x2="1499.50" y2="631.80" stroke="gray"/>
+  <line x1="1499.50" y1="631.80" x2="1499.50" y2="730.80" stroke="gray"/>
+  <line x1="1499.50" y1="730.80" x2="1400.50" y2="730.80" stroke="gray"/>
+  <text x="1450.00" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D2
+  </text>
+  <line x1="1569.70" y1="730.80" x2="1569.70" y2="631.80" stroke="gray"/>
+  <line x1="1569.70" y1="631.80" x2="1668.70" y2="631.80" stroke="gray"/>
+  <line x1="1668.70" y1="631.80" x2="1668.70" y2="730.80" stroke="gray"/>
+  <line x1="1668.70" y1="730.80" x2="1569.70" y2="730.80" stroke="gray"/>
+  <text x="1619.20" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E2
+  </text>
+  <line x1="1908.10" y1="730.80" x2="1908.10" y2="631.80" stroke="gray"/>
+  <line x1="1908.10" y1="631.80" x2="2007.10" y2="631.80" stroke="gray"/>
+  <line x1="2007.10" y1="631.80" x2="2007.10" y2="730.80" stroke="gray"/>
+  <line x1="2007.10" y1="730.80" x2="1908.10" y2="730.80" stroke="gray"/>
+  <text x="1957.60" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G2
+  </text>
+  <line x1="2077.30" y1="730.80" x2="2077.30" y2="631.80" stroke="gray"/>
+  <line x1="2077.30" y1="631.80" x2="2176.30" y2="631.80" stroke="gray"/>
+  <line x1="2176.30" y1="631.80" x2="2176.30" y2="730.80" stroke="gray"/>
+  <line x1="2176.30" y1="730.80" x2="2077.30" y2="730.80" stroke="gray"/>
+  <text x="2126.80" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A2
+  </text>
+  <line x1="2246.50" y1="730.80" x2="2246.50" y2="631.80" stroke="gray"/>
+  <line x1="2246.50" y1="631.80" x2="2345.50" y2="631.80" stroke="gray"/>
+  <line x1="2345.50" y1="631.80" x2="2345.50" y2="730.80" stroke="gray"/>
+  <line x1="2345.50" y1="730.80" x2="2246.50" y2="730.80" stroke="gray"/>
+  <text x="2296.00" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B2
+  </text>
+  <line x1="2584.90" y1="730.80" x2="2584.90" y2="631.80" stroke="gray"/>
+  <line x1="2584.90" y1="631.80" x2="2683.90" y2="631.80" stroke="gray"/>
+  <line x1="2683.90" y1="631.80" x2="2683.90" y2="730.80" stroke="gray"/>
+  <line x1="2683.90" y1="730.80" x2="2584.90" y2="730.80" stroke="gray"/>
+  <text x="2634.40" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D2
+  </text>
+  <line x1="2754.10" y1="730.80" x2="2754.10" y2="631.80" stroke="gray"/>
+  <line x1="2754.10" y1="631.80" x2="2853.10" y2="631.80" stroke="gray"/>
+  <line x1="2853.10" y1="631.80" x2="2853.10" y2="730.80" stroke="gray"/>
+  <line x1="2853.10" y1="730.80" x2="2754.10" y2="730.80" stroke="gray"/>
+  <text x="2803.60" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E2
+  </text>
+  <line x1="3092.50" y1="730.80" x2="3092.50" y2="631.80" stroke="gray"/>
+  <line x1="3092.50" y1="631.80" x2="3191.50" y2="631.80" stroke="gray"/>
+  <line x1="3191.50" y1="631.80" x2="3191.50" y2="730.80" stroke="gray"/>
+  <line x1="3191.50" y1="730.80" x2="3092.50" y2="730.80" stroke="gray"/>
+  <text x="3142.00" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G2
+  </text>
+  <line x1="3261.70" y1="730.80" x2="3261.70" y2="631.80" stroke="gray"/>
+  <line x1="3261.70" y1="631.80" x2="3360.70" y2="631.80" stroke="gray"/>
+  <line x1="3360.70" y1="631.80" x2="3360.70" y2="730.80" stroke="gray"/>
+  <line x1="3360.70" y1="730.80" x2="3261.70" y2="730.80" stroke="gray"/>
+  <text x="3311.20" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A2
+  </text>
+  <line x1="3430.90" y1="730.80" x2="3430.90" y2="631.80" stroke="gray"/>
+  <line x1="3430.90" y1="631.80" x2="3529.90" y2="631.80" stroke="gray"/>
+  <line x1="3529.90" y1="631.80" x2="3529.90" y2="730.80" stroke="gray"/>
+  <line x1="3529.90" y1="730.80" x2="3430.90" y2="730.80" stroke="gray"/>
+  <text x="3480.40" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B2
+  </text>
+  <line x1="3769.30" y1="730.80" x2="3769.30" y2="631.80" stroke="gray"/>
+  <line x1="3769.30" y1="631.80" x2="3868.30" y2="631.80" stroke="gray"/>
+  <line x1="3868.30" y1="631.80" x2="3868.30" y2="730.80" stroke="gray"/>
+  <line x1="3868.30" y1="730.80" x2="3769.30" y2="730.80" stroke="gray"/>
+  <text x="3818.80" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D2
+  </text>
+  <line x1="3938.50" y1="730.80" x2="3938.50" y2="631.80" stroke="gray"/>
+  <line x1="3938.50" y1="631.80" x2="4037.50" y2="631.80" stroke="gray"/>
+  <line x1="4037.50" y1="631.80" x2="4037.50" y2="730.80" stroke="gray"/>
+  <line x1="4037.50" y1="730.80" x2="3938.50" y2="730.80" stroke="gray"/>
+  <text x="3988.00" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E2
+  </text>
+  <line x1="4276.90" y1="730.80" x2="4276.90" y2="631.80" stroke="gray"/>
+  <line x1="4276.90" y1="631.80" x2="4375.90" y2="631.80" stroke="gray"/>
+  <line x1="4375.90" y1="631.80" x2="4375.90" y2="730.80" stroke="gray"/>
+  <line x1="4375.90" y1="730.80" x2="4276.90" y2="730.80" stroke="gray"/>
+  <text x="4326.40" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G2
+  </text>
+  <line x1="4446.10" y1="730.80" x2="4446.10" y2="631.80" stroke="gray"/>
+  <line x1="4446.10" y1="631.80" x2="4545.10" y2="631.80" stroke="gray"/>
+  <line x1="4545.10" y1="631.80" x2="4545.10" y2="730.80" stroke="gray"/>
+  <line x1="4545.10" y1="730.80" x2="4446.10" y2="730.80" stroke="gray"/>
+  <text x="4495.60" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A2
+  </text>
+  <line x1="4615.30" y1="730.80" x2="4615.30" y2="631.80" stroke="gray"/>
+  <line x1="4615.30" y1="631.80" x2="4714.30" y2="631.80" stroke="gray"/>
+  <line x1="4714.30" y1="631.80" x2="4714.30" y2="730.80" stroke="gray"/>
+  <line x1="4714.30" y1="730.80" x2="4615.30" y2="730.80" stroke="gray"/>
+  <text x="4664.80" y="691.30" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B2
+  </text>
+  <line x1="216.10" y1="624.60" x2="216.10" y2="525.60" stroke="gray"/>
+  <line x1="216.10" y1="525.60" x2="315.10" y2="525.60" stroke="gray"/>
+  <line x1="315.10" y1="525.60" x2="315.10" y2="624.60" stroke="gray"/>
+  <line x1="315.10" y1="624.60" x2="216.10" y2="624.60" stroke="gray"/>
+  <text x="265.60" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D3
+  </text>
+  <line x1="385.30" y1="624.60" x2="385.30" y2="525.60" stroke="gray"/>
+  <line x1="385.30" y1="525.60" x2="484.30" y2="525.60" stroke="gray"/>
+  <line x1="484.30" y1="525.60" x2="484.30" y2="624.60" stroke="gray"/>
+  <line x1="484.30" y1="624.60" x2="385.30" y2="624.60" stroke="gray"/>
+  <text x="434.80" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E3
+  </text>
+  <line x1="564.40" y1="644.40" x2="564.40" y2="525.60" stroke="gray"/>
+  <line x1="564.40" y1="525.60" x2="643.60" y2="525.60" stroke="gray"/>
+  <line x1="643.60" y1="525.60" x2="643.60" y2="644.40" stroke="gray"/>
+  <line x1="643.60" y1="644.40" x2="564.40" y2="644.40" stroke="gray"/>
+  <text x="604.00" y="614.80" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F3
+  </text>
+  <line x1="723.70" y1="624.60" x2="723.70" y2="525.60" stroke="gray"/>
+  <line x1="723.70" y1="525.60" x2="822.70" y2="525.60" stroke="gray"/>
+  <line x1="822.70" y1="525.60" x2="822.70" y2="624.60" stroke="gray"/>
+  <line x1="822.70" y1="624.60" x2="723.70" y2="624.60" stroke="gray"/>
+  <text x="773.20" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G3
+  </text>
+  <line x1="892.90" y1="624.60" x2="892.90" y2="525.60" stroke="gray"/>
+  <line x1="892.90" y1="525.60" x2="991.90" y2="525.60" stroke="gray"/>
+  <line x1="991.90" y1="525.60" x2="991.90" y2="624.60" stroke="gray"/>
+  <line x1="991.90" y1="624.60" x2="892.90" y2="624.60" stroke="gray"/>
+  <text x="942.40" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A3
+  </text>
+  <line x1="1062.10" y1="624.60" x2="1062.10" y2="525.60" stroke="gray"/>
+  <line x1="1062.10" y1="525.60" x2="1161.10" y2="525.60" stroke="gray"/>
+  <line x1="1161.10" y1="525.60" x2="1161.10" y2="624.60" stroke="gray"/>
+  <line x1="1161.10" y1="624.60" x2="1062.10" y2="624.60" stroke="gray"/>
+  <text x="1111.60" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B3
+  </text>
+  <line x1="1241.20" y1="644.40" x2="1241.20" y2="525.60" stroke="gray"/>
+  <line x1="1241.20" y1="525.60" x2="1320.40" y2="525.60" stroke="gray"/>
+  <line x1="1320.40" y1="525.60" x2="1320.40" y2="644.40" stroke="gray"/>
+  <line x1="1320.40" y1="644.40" x2="1241.20" y2="644.40" stroke="gray"/>
+  <text x="1280.80" y="614.80" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C3
+  </text>
+  <line x1="1400.50" y1="624.60" x2="1400.50" y2="525.60" stroke="gray"/>
+  <line x1="1400.50" y1="525.60" x2="1499.50" y2="525.60" stroke="gray"/>
+  <line x1="1499.50" y1="525.60" x2="1499.50" y2="624.60" stroke="gray"/>
+  <line x1="1499.50" y1="624.60" x2="1400.50" y2="624.60" stroke="gray"/>
+  <text x="1450.00" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D3
+  </text>
+  <line x1="1569.70" y1="624.60" x2="1569.70" y2="525.60" stroke="gray"/>
+  <line x1="1569.70" y1="525.60" x2="1668.70" y2="525.60" stroke="gray"/>
+  <line x1="1668.70" y1="525.60" x2="1668.70" y2="624.60" stroke="gray"/>
+  <line x1="1668.70" y1="624.60" x2="1569.70" y2="624.60" stroke="gray"/>
+  <text x="1619.20" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E3
+  </text>
+  <line x1="1748.80" y1="644.40" x2="1748.80" y2="525.60" stroke="gray"/>
+  <line x1="1748.80" y1="525.60" x2="1828.00" y2="525.60" stroke="gray"/>
+  <line x1="1828.00" y1="525.60" x2="1828.00" y2="644.40" stroke="gray"/>
+  <line x1="1828.00" y1="644.40" x2="1748.80" y2="644.40" stroke="gray"/>
+  <text x="1788.40" y="614.80" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F3
+  </text>
+  <line x1="1908.10" y1="624.60" x2="1908.10" y2="525.60" stroke="gray"/>
+  <line x1="1908.10" y1="525.60" x2="2007.10" y2="525.60" stroke="gray"/>
+  <line x1="2007.10" y1="525.60" x2="2007.10" y2="624.60" stroke="gray"/>
+  <line x1="2007.10" y1="624.60" x2="1908.10" y2="624.60" stroke="gray"/>
+  <text x="1957.60" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G3
+  </text>
+  <line x1="2077.30" y1="624.60" x2="2077.30" y2="525.60" stroke="gray"/>
+  <line x1="2077.30" y1="525.60" x2="2176.30" y2="525.60" stroke="gray"/>
+  <line x1="2176.30" y1="525.60" x2="2176.30" y2="624.60" stroke="gray"/>
+  <line x1="2176.30" y1="624.60" x2="2077.30" y2="624.60" stroke="gray"/>
+  <text x="2126.80" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A3
+  </text>
+  <line x1="2246.50" y1="624.60" x2="2246.50" y2="525.60" stroke="gray"/>
+  <line x1="2246.50" y1="525.60" x2="2345.50" y2="525.60" stroke="gray"/>
+  <line x1="2345.50" y1="525.60" x2="2345.50" y2="624.60" stroke="gray"/>
+  <line x1="2345.50" y1="624.60" x2="2246.50" y2="624.60" stroke="gray"/>
+  <text x="2296.00" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B3
+  </text>
+  <line x1="2425.60" y1="644.40" x2="2425.60" y2="525.60" stroke="gray"/>
+  <line x1="2425.60" y1="525.60" x2="2504.80" y2="525.60" stroke="gray"/>
+  <line x1="2504.80" y1="525.60" x2="2504.80" y2="644.40" stroke="gray"/>
+  <line x1="2504.80" y1="644.40" x2="2425.60" y2="644.40" stroke="gray"/>
+  <text x="2465.20" y="614.80" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C3
+  </text>
+  <line x1="2584.90" y1="624.60" x2="2584.90" y2="525.60" stroke="gray"/>
+  <line x1="2584.90" y1="525.60" x2="2683.90" y2="525.60" stroke="gray"/>
+  <line x1="2683.90" y1="525.60" x2="2683.90" y2="624.60" stroke="gray"/>
+  <line x1="2683.90" y1="624.60" x2="2584.90" y2="624.60" stroke="gray"/>
+  <text x="2634.40" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D3
+  </text>
+  <line x1="2754.10" y1="624.60" x2="2754.10" y2="525.60" stroke="gray"/>
+  <line x1="2754.10" y1="525.60" x2="2853.10" y2="525.60" stroke="gray"/>
+  <line x1="2853.10" y1="525.60" x2="2853.10" y2="624.60" stroke="gray"/>
+  <line x1="2853.10" y1="624.60" x2="2754.10" y2="624.60" stroke="gray"/>
+  <text x="2803.60" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E3
+  </text>
+  <line x1="2933.20" y1="644.40" x2="2933.20" y2="525.60" stroke="gray"/>
+  <line x1="2933.20" y1="525.60" x2="3012.40" y2="525.60" stroke="gray"/>
+  <line x1="3012.40" y1="525.60" x2="3012.40" y2="644.40" stroke="gray"/>
+  <line x1="3012.40" y1="644.40" x2="2933.20" y2="644.40" stroke="gray"/>
+  <text x="2972.80" y="614.80" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F3
+  </text>
+  <line x1="3092.50" y1="624.60" x2="3092.50" y2="525.60" stroke="gray"/>
+  <line x1="3092.50" y1="525.60" x2="3191.50" y2="525.60" stroke="gray"/>
+  <line x1="3191.50" y1="525.60" x2="3191.50" y2="624.60" stroke="gray"/>
+  <line x1="3191.50" y1="624.60" x2="3092.50" y2="624.60" stroke="gray"/>
+  <text x="3142.00" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G3
+  </text>
+  <line x1="3261.70" y1="624.60" x2="3261.70" y2="525.60" stroke="gray"/>
+  <line x1="3261.70" y1="525.60" x2="3360.70" y2="525.60" stroke="gray"/>
+  <line x1="3360.70" y1="525.60" x2="3360.70" y2="624.60" stroke="gray"/>
+  <line x1="3360.70" y1="624.60" x2="3261.70" y2="624.60" stroke="gray"/>
+  <text x="3311.20" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A3
+  </text>
+  <line x1="3430.90" y1="624.60" x2="3430.90" y2="525.60" stroke="gray"/>
+  <line x1="3430.90" y1="525.60" x2="3529.90" y2="525.60" stroke="gray"/>
+  <line x1="3529.90" y1="525.60" x2="3529.90" y2="624.60" stroke="gray"/>
+  <line x1="3529.90" y1="624.60" x2="3430.90" y2="624.60" stroke="gray"/>
+  <text x="3480.40" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B3
+  </text>
+  <line x1="3610.00" y1="644.40" x2="3610.00" y2="525.60" stroke="gray"/>
+  <line x1="3610.00" y1="525.60" x2="3689.20" y2="525.60" stroke="gray"/>
+  <line x1="3689.20" y1="525.60" x2="3689.20" y2="644.40" stroke="gray"/>
+  <line x1="3689.20" y1="644.40" x2="3610.00" y2="644.40" stroke="gray"/>
+  <text x="3649.60" y="614.80" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C3
+  </text>
+  <line x1="3769.30" y1="624.60" x2="3769.30" y2="525.60" stroke="gray"/>
+  <line x1="3769.30" y1="525.60" x2="3868.30" y2="525.60" stroke="gray"/>
+  <line x1="3868.30" y1="525.60" x2="3868.30" y2="624.60" stroke="gray"/>
+  <line x1="3868.30" y1="624.60" x2="3769.30" y2="624.60" stroke="gray"/>
+  <text x="3818.80" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D3
+  </text>
+  <line x1="3938.50" y1="624.60" x2="3938.50" y2="525.60" stroke="gray"/>
+  <line x1="3938.50" y1="525.60" x2="4037.50" y2="525.60" stroke="gray"/>
+  <line x1="4037.50" y1="525.60" x2="4037.50" y2="624.60" stroke="gray"/>
+  <line x1="4037.50" y1="624.60" x2="3938.50" y2="624.60" stroke="gray"/>
+  <text x="3988.00" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E3
+  </text>
+  <line x1="4117.60" y1="644.40" x2="4117.60" y2="525.60" stroke="gray"/>
+  <line x1="4117.60" y1="525.60" x2="4196.80" y2="525.60" stroke="gray"/>
+  <line x1="4196.80" y1="525.60" x2="4196.80" y2="644.40" stroke="gray"/>
+  <line x1="4196.80" y1="644.40" x2="4117.60" y2="644.40" stroke="gray"/>
+  <text x="4157.20" y="614.80" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F3
+  </text>
+  <line x1="4276.90" y1="624.60" x2="4276.90" y2="525.60" stroke="gray"/>
+  <line x1="4276.90" y1="525.60" x2="4375.90" y2="525.60" stroke="gray"/>
+  <line x1="4375.90" y1="525.60" x2="4375.90" y2="624.60" stroke="gray"/>
+  <line x1="4375.90" y1="624.60" x2="4276.90" y2="624.60" stroke="gray"/>
+  <text x="4326.40" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G3
+  </text>
+  <line x1="4446.10" y1="624.60" x2="4446.10" y2="525.60" stroke="gray"/>
+  <line x1="4446.10" y1="525.60" x2="4545.10" y2="525.60" stroke="gray"/>
+  <line x1="4545.10" y1="525.60" x2="4545.10" y2="624.60" stroke="gray"/>
+  <line x1="4545.10" y1="624.60" x2="4446.10" y2="624.60" stroke="gray"/>
+  <text x="4495.60" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A3
+  </text>
+  <line x1="4615.30" y1="624.60" x2="4615.30" y2="525.60" stroke="gray"/>
+  <line x1="4615.30" y1="525.60" x2="4714.30" y2="525.60" stroke="gray"/>
+  <line x1="4714.30" y1="525.60" x2="4714.30" y2="624.60" stroke="gray"/>
+  <line x1="4714.30" y1="624.60" x2="4615.30" y2="624.60" stroke="gray"/>
+  <text x="4664.80" y="585.10" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B3
+  </text>
+  <line x1="607.60" y1="518.40" x2="607.60" y2="356.40" stroke="gray"/>
+  <line x1="607.60" y1="356.40" x2="607.60" y2="144.00" stroke="gray"/>
+  <line x1="607.60" y1="144.00" x2="716.50" y2="144.00" stroke="gray"/>
+  <line x1="716.50" y1="144.00" x2="716.50" y2="356.40" stroke="gray"/>
+  <line x1="716.50" y1="356.40" x2="769.60" y2="356.40" stroke="gray"/>
+  <line x1="769.60" y1="356.40" x2="769.60" y2="518.40" stroke="gray"/>
+  <line x1="769.60" y1="518.40" x2="607.60" y2="518.40" stroke="gray"/>
+  <text x="688.60" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F4
+  </text>
+  <line x1="776.80" y1="518.40" x2="776.80" y2="356.40" stroke="gray"/>
+  <line x1="776.80" y1="356.40" x2="829.90" y2="356.40" stroke="gray"/>
+  <line x1="829.90" y1="356.40" x2="829.90" y2="144.00" stroke="gray"/>
+  <line x1="829.90" y1="144.00" x2="885.70" y2="144.00" stroke="gray"/>
+  <line x1="885.70" y1="144.00" x2="885.70" y2="356.40" stroke="gray"/>
+  <line x1="885.70" y1="356.40" x2="938.80" y2="356.40" stroke="gray"/>
+  <line x1="938.80" y1="356.40" x2="938.80" y2="518.40" stroke="gray"/>
+  <line x1="938.80" y1="518.40" x2="776.80" y2="518.40" stroke="gray"/>
+  <text x="857.80" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G4
+  </text>
+  <line x1="946.00" y1="518.40" x2="946.00" y2="356.40" stroke="gray"/>
+  <line x1="946.00" y1="356.40" x2="999.10" y2="356.40" stroke="gray"/>
+  <line x1="999.10" y1="356.40" x2="999.10" y2="144.00" stroke="gray"/>
+  <line x1="999.10" y1="144.00" x2="1054.90" y2="144.00" stroke="gray"/>
+  <line x1="1054.90" y1="144.00" x2="1054.90" y2="356.40" stroke="gray"/>
+  <line x1="1054.90" y1="356.40" x2="1108.00" y2="356.40" stroke="gray"/>
+  <line x1="1108.00" y1="356.40" x2="1108.00" y2="518.40" stroke="gray"/>
+  <line x1="1108.00" y1="518.40" x2="946.00" y2="518.40" stroke="gray"/>
+  <text x="1027.00" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A4
+  </text>
+  <line x1="1115.20" y1="518.40" x2="1115.20" y2="356.40" stroke="gray"/>
+  <line x1="1115.20" y1="356.40" x2="1168.30" y2="356.40" stroke="gray"/>
+  <line x1="1168.30" y1="356.40" x2="1168.30" y2="144.00" stroke="gray"/>
+  <line x1="1168.30" y1="144.00" x2="1277.20" y2="144.00" stroke="gray"/>
+  <line x1="1277.20" y1="144.00" x2="1277.20" y2="356.40" stroke="gray"/>
+  <line x1="1277.20" y1="356.40" x2="1277.20" y2="518.40" stroke="gray"/>
+  <line x1="1277.20" y1="518.40" x2="1115.20" y2="518.40" stroke="gray"/>
+  <text x="1196.20" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B4
+  </text>
+  <line x1="1284.40" y1="518.40" x2="1284.40" y2="356.40" stroke="gray"/>
+  <line x1="1284.40" y1="356.40" x2="1284.40" y2="144.00" stroke="gray"/>
+  <line x1="1284.40" y1="144.00" x2="1393.30" y2="144.00" stroke="gray"/>
+  <line x1="1393.30" y1="144.00" x2="1393.30" y2="356.40" stroke="gray"/>
+  <line x1="1393.30" y1="356.40" x2="1446.40" y2="356.40" stroke="gray"/>
+  <line x1="1446.40" y1="356.40" x2="1446.40" y2="518.40" stroke="gray"/>
+  <line x1="1446.40" y1="518.40" x2="1284.40" y2="518.40" stroke="gray"/>
+  <text x="1365.40" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C4
+  </text>
+  <line x1="1453.60" y1="518.40" x2="1453.60" y2="356.40" stroke="gray"/>
+  <line x1="1453.60" y1="356.40" x2="1506.70" y2="356.40" stroke="gray"/>
+  <line x1="1506.70" y1="356.40" x2="1506.70" y2="144.00" stroke="gray"/>
+  <line x1="1506.70" y1="144.00" x2="1562.50" y2="144.00" stroke="gray"/>
+  <line x1="1562.50" y1="144.00" x2="1562.50" y2="356.40" stroke="gray"/>
+  <line x1="1562.50" y1="356.40" x2="1615.60" y2="356.40" stroke="gray"/>
+  <line x1="1615.60" y1="356.40" x2="1615.60" y2="518.40" stroke="gray"/>
+  <line x1="1615.60" y1="518.40" x2="1453.60" y2="518.40" stroke="gray"/>
+  <text x="1534.60" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D4
+  </text>
+  <line x1="1622.80" y1="518.40" x2="1622.80" y2="356.40" stroke="gray"/>
+  <line x1="1622.80" y1="356.40" x2="1675.90" y2="356.40" stroke="gray"/>
+  <line x1="1675.90" y1="356.40" x2="1675.90" y2="144.00" stroke="gray"/>
+  <line x1="1675.90" y1="144.00" x2="1784.80" y2="144.00" stroke="gray"/>
+  <line x1="1784.80" y1="144.00" x2="1784.80" y2="356.40" stroke="gray"/>
+  <line x1="1784.80" y1="356.40" x2="1784.80" y2="518.40" stroke="gray"/>
+  <line x1="1784.80" y1="518.40" x2="1622.80" y2="518.40" stroke="gray"/>
+  <text x="1703.80" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E4
+  </text>
+  <line x1="1792.00" y1="518.40" x2="1792.00" y2="356.40" stroke="gray"/>
+  <line x1="1792.00" y1="356.40" x2="1792.00" y2="144.00" stroke="gray"/>
+  <line x1="1792.00" y1="144.00" x2="1900.90" y2="144.00" stroke="gray"/>
+  <line x1="1900.90" y1="144.00" x2="1900.90" y2="356.40" stroke="gray"/>
+  <line x1="1900.90" y1="356.40" x2="1954.00" y2="356.40" stroke="gray"/>
+  <line x1="1954.00" y1="356.40" x2="1954.00" y2="518.40" stroke="gray"/>
+  <line x1="1954.00" y1="518.40" x2="1792.00" y2="518.40" stroke="gray"/>
+  <text x="1873.00" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F4
+  </text>
+  <line x1="1961.20" y1="518.40" x2="1961.20" y2="356.40" stroke="gray"/>
+  <line x1="1961.20" y1="356.40" x2="2014.30" y2="356.40" stroke="gray"/>
+  <line x1="2014.30" y1="356.40" x2="2014.30" y2="144.00" stroke="gray"/>
+  <line x1="2014.30" y1="144.00" x2="2070.10" y2="144.00" stroke="gray"/>
+  <line x1="2070.10" y1="144.00" x2="2070.10" y2="356.40" stroke="gray"/>
+  <line x1="2070.10" y1="356.40" x2="2123.20" y2="356.40" stroke="gray"/>
+  <line x1="2123.20" y1="356.40" x2="2123.20" y2="518.40" stroke="gray"/>
+  <line x1="2123.20" y1="518.40" x2="1961.20" y2="518.40" stroke="gray"/>
+  <text x="2042.20" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G4
+  </text>
+  <line x1="2130.40" y1="518.40" x2="2130.40" y2="356.40" stroke="gray"/>
+  <line x1="2130.40" y1="356.40" x2="2183.50" y2="356.40" stroke="gray"/>
+  <line x1="2183.50" y1="356.40" x2="2183.50" y2="144.00" stroke="gray"/>
+  <line x1="2183.50" y1="144.00" x2="2239.30" y2="144.00" stroke="gray"/>
+  <line x1="2239.30" y1="144.00" x2="2239.30" y2="356.40" stroke="gray"/>
+  <line x1="2239.30" y1="356.40" x2="2292.40" y2="356.40" stroke="gray"/>
+  <line x1="2292.40" y1="356.40" x2="2292.40" y2="518.40" stroke="gray"/>
+  <line x1="2292.40" y1="518.40" x2="2130.40" y2="518.40" stroke="gray"/>
+  <text x="2211.40" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A4
+  </text>
+  <line x1="2299.60" y1="518.40" x2="2299.60" y2="356.40" stroke="gray"/>
+  <line x1="2299.60" y1="356.40" x2="2352.70" y2="356.40" stroke="gray"/>
+  <line x1="2352.70" y1="356.40" x2="2352.70" y2="144.00" stroke="gray"/>
+  <line x1="2352.70" y1="144.00" x2="2461.60" y2="144.00" stroke="gray"/>
+  <line x1="2461.60" y1="144.00" x2="2461.60" y2="356.40" stroke="gray"/>
+  <line x1="2461.60" y1="356.40" x2="2461.60" y2="518.40" stroke="gray"/>
+  <line x1="2461.60" y1="518.40" x2="2299.60" y2="518.40" stroke="gray"/>
+  <text x="2380.60" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B4
+  </text>
+  <line x1="2468.80" y1="518.40" x2="2468.80" y2="356.40" stroke="gray"/>
+  <line x1="2468.80" y1="356.40" x2="2468.80" y2="144.00" stroke="gray"/>
+  <line x1="2468.80" y1="144.00" x2="2577.70" y2="144.00" stroke="gray"/>
+  <line x1="2577.70" y1="144.00" x2="2577.70" y2="356.40" stroke="gray"/>
+  <line x1="2577.70" y1="356.40" x2="2630.80" y2="356.40" stroke="gray"/>
+  <line x1="2630.80" y1="356.40" x2="2630.80" y2="518.40" stroke="gray"/>
+  <line x1="2630.80" y1="518.40" x2="2468.80" y2="518.40" stroke="gray"/>
+  <text x="2549.80" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C4
+  </text>
+  <line x1="2638.00" y1="518.40" x2="2638.00" y2="356.40" stroke="gray"/>
+  <line x1="2638.00" y1="356.40" x2="2691.10" y2="356.40" stroke="gray"/>
+  <line x1="2691.10" y1="356.40" x2="2691.10" y2="144.00" stroke="gray"/>
+  <line x1="2691.10" y1="144.00" x2="2746.90" y2="144.00" stroke="gray"/>
+  <line x1="2746.90" y1="144.00" x2="2746.90" y2="356.40" stroke="gray"/>
+  <line x1="2746.90" y1="356.40" x2="2800.00" y2="356.40" stroke="gray"/>
+  <line x1="2800.00" y1="356.40" x2="2800.00" y2="518.40" stroke="gray"/>
+  <line x1="2800.00" y1="518.40" x2="2638.00" y2="518.40" stroke="gray"/>
+  <text x="2719.00" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D4
+  </text>
+  <line x1="2807.20" y1="518.40" x2="2807.20" y2="356.40" stroke="gray"/>
+  <line x1="2807.20" y1="356.40" x2="2860.30" y2="356.40" stroke="gray"/>
+  <line x1="2860.30" y1="356.40" x2="2860.30" y2="144.00" stroke="gray"/>
+  <line x1="2860.30" y1="144.00" x2="2969.20" y2="144.00" stroke="gray"/>
+  <line x1="2969.20" y1="144.00" x2="2969.20" y2="356.40" stroke="gray"/>
+  <line x1="2969.20" y1="356.40" x2="2969.20" y2="518.40" stroke="gray"/>
+  <line x1="2969.20" y1="518.40" x2="2807.20" y2="518.40" stroke="gray"/>
+  <text x="2888.20" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E4
+  </text>
+  <line x1="2976.40" y1="518.40" x2="2976.40" y2="356.40" stroke="gray"/>
+  <line x1="2976.40" y1="356.40" x2="2976.40" y2="144.00" stroke="gray"/>
+  <line x1="2976.40" y1="144.00" x2="3085.30" y2="144.00" stroke="gray"/>
+  <line x1="3085.30" y1="144.00" x2="3085.30" y2="356.40" stroke="gray"/>
+  <line x1="3085.30" y1="356.40" x2="3138.40" y2="356.40" stroke="gray"/>
+  <line x1="3138.40" y1="356.40" x2="3138.40" y2="518.40" stroke="gray"/>
+  <line x1="3138.40" y1="518.40" x2="2976.40" y2="518.40" stroke="gray"/>
+  <text x="3057.40" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F4
+  </text>
+  <line x1="3145.60" y1="518.40" x2="3145.60" y2="356.40" stroke="gray"/>
+  <line x1="3145.60" y1="356.40" x2="3198.70" y2="356.40" stroke="gray"/>
+  <line x1="3198.70" y1="356.40" x2="3198.70" y2="144.00" stroke="gray"/>
+  <line x1="3198.70" y1="144.00" x2="3254.50" y2="144.00" stroke="gray"/>
+  <line x1="3254.50" y1="144.00" x2="3254.50" y2="356.40" stroke="gray"/>
+  <line x1="3254.50" y1="356.40" x2="3307.60" y2="356.40" stroke="gray"/>
+  <line x1="3307.60" y1="356.40" x2="3307.60" y2="518.40" stroke="gray"/>
+  <line x1="3307.60" y1="518.40" x2="3145.60" y2="518.40" stroke="gray"/>
+  <text x="3226.60" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G4
+  </text>
+  <line x1="3314.80" y1="518.40" x2="3314.80" y2="356.40" stroke="gray"/>
+  <line x1="3314.80" y1="356.40" x2="3367.90" y2="356.40" stroke="gray"/>
+  <line x1="3367.90" y1="356.40" x2="3367.90" y2="144.00" stroke="gray"/>
+  <line x1="3367.90" y1="144.00" x2="3423.70" y2="144.00" stroke="gray"/>
+  <line x1="3423.70" y1="144.00" x2="3423.70" y2="356.40" stroke="gray"/>
+  <line x1="3423.70" y1="356.40" x2="3476.80" y2="356.40" stroke="gray"/>
+  <line x1="3476.80" y1="356.40" x2="3476.80" y2="518.40" stroke="gray"/>
+  <line x1="3476.80" y1="518.40" x2="3314.80" y2="518.40" stroke="gray"/>
+  <text x="3395.80" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A4
+  </text>
+  <line x1="3484.00" y1="518.40" x2="3484.00" y2="356.40" stroke="gray"/>
+  <line x1="3484.00" y1="356.40" x2="3537.10" y2="356.40" stroke="gray"/>
+  <line x1="3537.10" y1="356.40" x2="3537.10" y2="144.00" stroke="gray"/>
+  <line x1="3537.10" y1="144.00" x2="3646.00" y2="144.00" stroke="gray"/>
+  <line x1="3646.00" y1="144.00" x2="3646.00" y2="356.40" stroke="gray"/>
+  <line x1="3646.00" y1="356.40" x2="3646.00" y2="518.40" stroke="gray"/>
+  <line x1="3646.00" y1="518.40" x2="3484.00" y2="518.40" stroke="gray"/>
+  <text x="3565.00" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B4
+  </text>
+  <line x1="3653.20" y1="518.40" x2="3653.20" y2="356.40" stroke="gray"/>
+  <line x1="3653.20" y1="356.40" x2="3653.20" y2="144.00" stroke="gray"/>
+  <line x1="3653.20" y1="144.00" x2="3762.10" y2="144.00" stroke="gray"/>
+  <line x1="3762.10" y1="144.00" x2="3762.10" y2="356.40" stroke="gray"/>
+  <line x1="3762.10" y1="356.40" x2="3815.20" y2="356.40" stroke="gray"/>
+  <line x1="3815.20" y1="356.40" x2="3815.20" y2="518.40" stroke="gray"/>
+  <line x1="3815.20" y1="518.40" x2="3653.20" y2="518.40" stroke="gray"/>
+  <text x="3734.20" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C4
+  </text>
+  <line x1="3822.40" y1="518.40" x2="3822.40" y2="356.40" stroke="gray"/>
+  <line x1="3822.40" y1="356.40" x2="3875.50" y2="356.40" stroke="gray"/>
+  <line x1="3875.50" y1="356.40" x2="3875.50" y2="144.00" stroke="gray"/>
+  <line x1="3875.50" y1="144.00" x2="3931.30" y2="144.00" stroke="gray"/>
+  <line x1="3931.30" y1="144.00" x2="3931.30" y2="356.40" stroke="gray"/>
+  <line x1="3931.30" y1="356.40" x2="3984.40" y2="356.40" stroke="gray"/>
+  <line x1="3984.40" y1="356.40" x2="3984.40" y2="518.40" stroke="gray"/>
+  <line x1="3984.40" y1="518.40" x2="3822.40" y2="518.40" stroke="gray"/>
+  <text x="3903.40" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D4
+  </text>
+  <line x1="3991.60" y1="518.40" x2="3991.60" y2="356.40" stroke="gray"/>
+  <line x1="3991.60" y1="356.40" x2="4044.70" y2="356.40" stroke="gray"/>
+  <line x1="4044.70" y1="356.40" x2="4044.70" y2="144.00" stroke="gray"/>
+  <line x1="4044.70" y1="144.00" x2="4153.60" y2="144.00" stroke="gray"/>
+  <line x1="4153.60" y1="144.00" x2="4153.60" y2="356.40" stroke="gray"/>
+  <line x1="4153.60" y1="356.40" x2="4153.60" y2="518.40" stroke="gray"/>
+  <line x1="4153.60" y1="518.40" x2="3991.60" y2="518.40" stroke="gray"/>
+  <text x="4072.60" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E4
+  </text>
+  <line x1="4160.80" y1="518.40" x2="4160.80" y2="356.40" stroke="gray"/>
+  <line x1="4160.80" y1="356.40" x2="4160.80" y2="144.00" stroke="gray"/>
+  <line x1="4160.80" y1="144.00" x2="4269.70" y2="144.00" stroke="gray"/>
+  <line x1="4269.70" y1="144.00" x2="4269.70" y2="356.40" stroke="gray"/>
+  <line x1="4269.70" y1="356.40" x2="4322.80" y2="356.40" stroke="gray"/>
+  <line x1="4322.80" y1="356.40" x2="4322.80" y2="518.40" stroke="gray"/>
+  <line x1="4322.80" y1="518.40" x2="4160.80" y2="518.40" stroke="gray"/>
+  <text x="4241.80" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    F4
+  </text>
+  <line x1="4330.00" y1="518.40" x2="4330.00" y2="356.40" stroke="gray"/>
+  <line x1="4330.00" y1="356.40" x2="4383.10" y2="356.40" stroke="gray"/>
+  <line x1="4383.10" y1="356.40" x2="4383.10" y2="144.00" stroke="gray"/>
+  <line x1="4383.10" y1="144.00" x2="4438.90" y2="144.00" stroke="gray"/>
+  <line x1="4438.90" y1="144.00" x2="4438.90" y2="356.40" stroke="gray"/>
+  <line x1="4438.90" y1="356.40" x2="4492.00" y2="356.40" stroke="gray"/>
+  <line x1="4492.00" y1="356.40" x2="4492.00" y2="518.40" stroke="gray"/>
+  <line x1="4492.00" y1="518.40" x2="4330.00" y2="518.40" stroke="gray"/>
+  <text x="4411.00" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G4
+  </text>
+  <line x1="4499.20" y1="518.40" x2="4499.20" y2="356.40" stroke="gray"/>
+  <line x1="4499.20" y1="356.40" x2="4552.30" y2="356.40" stroke="gray"/>
+  <line x1="4552.30" y1="356.40" x2="4552.30" y2="144.00" stroke="gray"/>
+  <line x1="4552.30" y1="144.00" x2="4608.10" y2="144.00" stroke="gray"/>
+  <line x1="4608.10" y1="144.00" x2="4608.10" y2="356.40" stroke="gray"/>
+  <line x1="4608.10" y1="356.40" x2="4661.20" y2="356.40" stroke="gray"/>
+  <line x1="4661.20" y1="356.40" x2="4661.20" y2="518.40" stroke="gray"/>
+  <line x1="4661.20" y1="518.40" x2="4499.20" y2="518.40" stroke="gray"/>
+  <text x="4580.20" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A4
+  </text>
+  <line x1="4668.40" y1="518.40" x2="4668.40" y2="356.40" stroke="gray"/>
+  <line x1="4668.40" y1="356.40" x2="4721.50" y2="356.40" stroke="gray"/>
+  <line x1="4721.50" y1="356.40" x2="4721.50" y2="144.00" stroke="gray"/>
+  <line x1="4721.50" y1="144.00" x2="4830.40" y2="144.00" stroke="gray"/>
+  <line x1="4830.40" y1="144.00" x2="4830.40" y2="356.40" stroke="gray"/>
+  <line x1="4830.40" y1="356.40" x2="4830.40" y2="518.40" stroke="gray"/>
+  <line x1="4830.40" y1="518.40" x2="4668.40" y2="518.40" stroke="gray"/>
+  <text x="4749.40" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B4
+  </text>
+  <line x1="4837.60" y1="518.40" x2="4837.60" y2="144.00" stroke="gray"/>
+  <line x1="4837.60" y1="144.00" x2="4999.60" y2="144.00" stroke="gray"/>
+  <line x1="4999.60" y1="144.00" x2="4999.60" y2="518.40" stroke="gray"/>
+  <line x1="4999.60" y1="518.40" x2="4837.60" y2="518.40" stroke="gray"/>
+  <text x="4918.60" y="447.40" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    C4
+  </text>
+  <line x1="723.70" y1="349.20" x2="723.70" y2="250.20" stroke="gray"/>
+  <line x1="723.70" y1="250.20" x2="822.70" y2="250.20" stroke="gray"/>
+  <line x1="822.70" y1="250.20" x2="822.70" y2="349.20" stroke="gray"/>
+  <line x1="822.70" y1="349.20" x2="723.70" y2="349.20" stroke="gray"/>
+  <text x="773.20" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G5
+  </text>
+  <line x1="892.90" y1="349.20" x2="892.90" y2="250.20" stroke="gray"/>
+  <line x1="892.90" y1="250.20" x2="991.90" y2="250.20" stroke="gray"/>
+  <line x1="991.90" y1="250.20" x2="991.90" y2="349.20" stroke="gray"/>
+  <line x1="991.90" y1="349.20" x2="892.90" y2="349.20" stroke="gray"/>
+  <text x="942.40" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A5
+  </text>
+  <line x1="1062.10" y1="349.20" x2="1062.10" y2="250.20" stroke="gray"/>
+  <line x1="1062.10" y1="250.20" x2="1161.10" y2="250.20" stroke="gray"/>
+  <line x1="1161.10" y1="250.20" x2="1161.10" y2="349.20" stroke="gray"/>
+  <line x1="1161.10" y1="349.20" x2="1062.10" y2="349.20" stroke="gray"/>
+  <text x="1111.60" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B5
+  </text>
+  <line x1="1400.50" y1="349.20" x2="1400.50" y2="250.20" stroke="gray"/>
+  <line x1="1400.50" y1="250.20" x2="1499.50" y2="250.20" stroke="gray"/>
+  <line x1="1499.50" y1="250.20" x2="1499.50" y2="349.20" stroke="gray"/>
+  <line x1="1499.50" y1="349.20" x2="1400.50" y2="349.20" stroke="gray"/>
+  <text x="1450.00" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D5
+  </text>
+  <line x1="1569.70" y1="349.20" x2="1569.70" y2="250.20" stroke="gray"/>
+  <line x1="1569.70" y1="250.20" x2="1668.70" y2="250.20" stroke="gray"/>
+  <line x1="1668.70" y1="250.20" x2="1668.70" y2="349.20" stroke="gray"/>
+  <line x1="1668.70" y1="349.20" x2="1569.70" y2="349.20" stroke="gray"/>
+  <text x="1619.20" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E5
+  </text>
+  <line x1="1908.10" y1="349.20" x2="1908.10" y2="250.20" stroke="gray"/>
+  <line x1="1908.10" y1="250.20" x2="2007.10" y2="250.20" stroke="gray"/>
+  <line x1="2007.10" y1="250.20" x2="2007.10" y2="349.20" stroke="gray"/>
+  <line x1="2007.10" y1="349.20" x2="1908.10" y2="349.20" stroke="gray"/>
+  <text x="1957.60" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G5
+  </text>
+  <line x1="2077.30" y1="349.20" x2="2077.30" y2="250.20" stroke="gray"/>
+  <line x1="2077.30" y1="250.20" x2="2176.30" y2="250.20" stroke="gray"/>
+  <line x1="2176.30" y1="250.20" x2="2176.30" y2="349.20" stroke="gray"/>
+  <line x1="2176.30" y1="349.20" x2="2077.30" y2="349.20" stroke="gray"/>
+  <text x="2126.80" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A5
+  </text>
+  <line x1="2246.50" y1="349.20" x2="2246.50" y2="250.20" stroke="gray"/>
+  <line x1="2246.50" y1="250.20" x2="2345.50" y2="250.20" stroke="gray"/>
+  <line x1="2345.50" y1="250.20" x2="2345.50" y2="349.20" stroke="gray"/>
+  <line x1="2345.50" y1="349.20" x2="2246.50" y2="349.20" stroke="gray"/>
+  <text x="2296.00" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B5
+  </text>
+  <line x1="2584.90" y1="349.20" x2="2584.90" y2="250.20" stroke="gray"/>
+  <line x1="2584.90" y1="250.20" x2="2683.90" y2="250.20" stroke="gray"/>
+  <line x1="2683.90" y1="250.20" x2="2683.90" y2="349.20" stroke="gray"/>
+  <line x1="2683.90" y1="349.20" x2="2584.90" y2="349.20" stroke="gray"/>
+  <text x="2634.40" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D5
+  </text>
+  <line x1="2754.10" y1="349.20" x2="2754.10" y2="250.20" stroke="gray"/>
+  <line x1="2754.10" y1="250.20" x2="2853.10" y2="250.20" stroke="gray"/>
+  <line x1="2853.10" y1="250.20" x2="2853.10" y2="349.20" stroke="gray"/>
+  <line x1="2853.10" y1="349.20" x2="2754.10" y2="349.20" stroke="gray"/>
+  <text x="2803.60" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E5
+  </text>
+  <line x1="3092.50" y1="349.20" x2="3092.50" y2="250.20" stroke="gray"/>
+  <line x1="3092.50" y1="250.20" x2="3191.50" y2="250.20" stroke="gray"/>
+  <line x1="3191.50" y1="250.20" x2="3191.50" y2="349.20" stroke="gray"/>
+  <line x1="3191.50" y1="349.20" x2="3092.50" y2="349.20" stroke="gray"/>
+  <text x="3142.00" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G5
+  </text>
+  <line x1="3261.70" y1="349.20" x2="3261.70" y2="250.20" stroke="gray"/>
+  <line x1="3261.70" y1="250.20" x2="3360.70" y2="250.20" stroke="gray"/>
+  <line x1="3360.70" y1="250.20" x2="3360.70" y2="349.20" stroke="gray"/>
+  <line x1="3360.70" y1="349.20" x2="3261.70" y2="349.20" stroke="gray"/>
+  <text x="3311.20" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A5
+  </text>
+  <line x1="3430.90" y1="349.20" x2="3430.90" y2="250.20" stroke="gray"/>
+  <line x1="3430.90" y1="250.20" x2="3529.90" y2="250.20" stroke="gray"/>
+  <line x1="3529.90" y1="250.20" x2="3529.90" y2="349.20" stroke="gray"/>
+  <line x1="3529.90" y1="349.20" x2="3430.90" y2="349.20" stroke="gray"/>
+  <text x="3480.40" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B5
+  </text>
+  <line x1="3769.30" y1="349.20" x2="3769.30" y2="250.20" stroke="gray"/>
+  <line x1="3769.30" y1="250.20" x2="3868.30" y2="250.20" stroke="gray"/>
+  <line x1="3868.30" y1="250.20" x2="3868.30" y2="349.20" stroke="gray"/>
+  <line x1="3868.30" y1="349.20" x2="3769.30" y2="349.20" stroke="gray"/>
+  <text x="3818.80" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D5
+  </text>
+  <line x1="3938.50" y1="349.20" x2="3938.50" y2="250.20" stroke="gray"/>
+  <line x1="3938.50" y1="250.20" x2="4037.50" y2="250.20" stroke="gray"/>
+  <line x1="4037.50" y1="250.20" x2="4037.50" y2="349.20" stroke="gray"/>
+  <line x1="4037.50" y1="349.20" x2="3938.50" y2="349.20" stroke="gray"/>
+  <text x="3988.00" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E6
+  </text>
+  <line x1="4276.90" y1="349.20" x2="4276.90" y2="250.20" stroke="gray"/>
+  <line x1="4276.90" y1="250.20" x2="4375.90" y2="250.20" stroke="gray"/>
+  <line x1="4375.90" y1="250.20" x2="4375.90" y2="349.20" stroke="gray"/>
+  <line x1="4375.90" y1="349.20" x2="4276.90" y2="349.20" stroke="gray"/>
+  <text x="4326.40" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G5
+  </text>
+  <line x1="4446.10" y1="349.20" x2="4446.10" y2="250.20" stroke="gray"/>
+  <line x1="4446.10" y1="250.20" x2="4545.10" y2="250.20" stroke="gray"/>
+  <line x1="4545.10" y1="250.20" x2="4545.10" y2="349.20" stroke="gray"/>
+  <line x1="4545.10" y1="349.20" x2="4446.10" y2="349.20" stroke="gray"/>
+  <text x="4495.60" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A5
+  </text>
+  <line x1="4615.30" y1="349.20" x2="4615.30" y2="250.20" stroke="gray"/>
+  <line x1="4615.30" y1="250.20" x2="4714.30" y2="250.20" stroke="gray"/>
+  <line x1="4714.30" y1="250.20" x2="4714.30" y2="349.20" stroke="gray"/>
+  <line x1="4714.30" y1="349.20" x2="4615.30" y2="349.20" stroke="gray"/>
+  <text x="4664.80" y="309.70" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B5
+  </text>
+  <line x1="723.70" y1="243.00" x2="723.70" y2="144.00" stroke="gray"/>
+  <line x1="723.70" y1="144.00" x2="822.70" y2="144.00" stroke="gray"/>
+  <line x1="822.70" y1="144.00" x2="822.70" y2="243.00" stroke="gray"/>
+  <line x1="822.70" y1="243.00" x2="723.70" y2="243.00" stroke="gray"/>
+  <text x="773.20" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G6
+  </text>
+  <line x1="892.90" y1="243.00" x2="892.90" y2="144.00" stroke="gray"/>
+  <line x1="892.90" y1="144.00" x2="991.90" y2="144.00" stroke="gray"/>
+  <line x1="991.90" y1="144.00" x2="991.90" y2="243.00" stroke="gray"/>
+  <line x1="991.90" y1="243.00" x2="892.90" y2="243.00" stroke="gray"/>
+  <text x="942.40" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A6
+  </text>
+  <line x1="1062.10" y1="243.00" x2="1062.10" y2="144.00" stroke="gray"/>
+  <line x1="1062.10" y1="144.00" x2="1161.10" y2="144.00" stroke="gray"/>
+  <line x1="1161.10" y1="144.00" x2="1161.10" y2="243.00" stroke="gray"/>
+  <line x1="1161.10" y1="243.00" x2="1062.10" y2="243.00" stroke="gray"/>
+  <text x="1111.60" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B6
+  </text>
+  <line x1="1400.50" y1="243.00" x2="1400.50" y2="144.00" stroke="gray"/>
+  <line x1="1400.50" y1="144.00" x2="1499.50" y2="144.00" stroke="gray"/>
+  <line x1="1499.50" y1="144.00" x2="1499.50" y2="243.00" stroke="gray"/>
+  <line x1="1499.50" y1="243.00" x2="1400.50" y2="243.00" stroke="gray"/>
+  <text x="1450.00" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D6
+  </text>
+  <line x1="1569.70" y1="243.00" x2="1569.70" y2="144.00" stroke="gray"/>
+  <line x1="1569.70" y1="144.00" x2="1668.70" y2="144.00" stroke="gray"/>
+  <line x1="1668.70" y1="144.00" x2="1668.70" y2="243.00" stroke="gray"/>
+  <line x1="1668.70" y1="243.00" x2="1569.70" y2="243.00" stroke="gray"/>
+  <text x="1619.20" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E6
+  </text>
+  <line x1="1908.10" y1="243.00" x2="1908.10" y2="144.00" stroke="gray"/>
+  <line x1="1908.10" y1="144.00" x2="2007.10" y2="144.00" stroke="gray"/>
+  <line x1="2007.10" y1="144.00" x2="2007.10" y2="243.00" stroke="gray"/>
+  <line x1="2007.10" y1="243.00" x2="1908.10" y2="243.00" stroke="gray"/>
+  <text x="1957.60" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G6
+  </text>
+  <line x1="2077.30" y1="243.00" x2="2077.30" y2="144.00" stroke="gray"/>
+  <line x1="2077.30" y1="144.00" x2="2176.30" y2="144.00" stroke="gray"/>
+  <line x1="2176.30" y1="144.00" x2="2176.30" y2="243.00" stroke="gray"/>
+  <line x1="2176.30" y1="243.00" x2="2077.30" y2="243.00" stroke="gray"/>
+  <text x="2126.80" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A6
+  </text>
+  <line x1="2246.50" y1="243.00" x2="2246.50" y2="144.00" stroke="gray"/>
+  <line x1="2246.50" y1="144.00" x2="2345.50" y2="144.00" stroke="gray"/>
+  <line x1="2345.50" y1="144.00" x2="2345.50" y2="243.00" stroke="gray"/>
+  <line x1="2345.50" y1="243.00" x2="2246.50" y2="243.00" stroke="gray"/>
+  <text x="2296.00" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B6
+  </text>
+  <line x1="2584.90" y1="243.00" x2="2584.90" y2="144.00" stroke="gray"/>
+  <line x1="2584.90" y1="144.00" x2="2683.90" y2="144.00" stroke="gray"/>
+  <line x1="2683.90" y1="144.00" x2="2683.90" y2="243.00" stroke="gray"/>
+  <line x1="2683.90" y1="243.00" x2="2584.90" y2="243.00" stroke="gray"/>
+  <text x="2634.40" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D6
+  </text>
+  <line x1="2754.10" y1="243.00" x2="2754.10" y2="144.00" stroke="gray"/>
+  <line x1="2754.10" y1="144.00" x2="2853.10" y2="144.00" stroke="gray"/>
+  <line x1="2853.10" y1="144.00" x2="2853.10" y2="243.00" stroke="gray"/>
+  <line x1="2853.10" y1="243.00" x2="2754.10" y2="243.00" stroke="gray"/>
+  <text x="2803.60" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E6
+  </text>
+  <line x1="3092.50" y1="243.00" x2="3092.50" y2="144.00" stroke="gray"/>
+  <line x1="3092.50" y1="144.00" x2="3191.50" y2="144.00" stroke="gray"/>
+  <line x1="3191.50" y1="144.00" x2="3191.50" y2="243.00" stroke="gray"/>
+  <line x1="3191.50" y1="243.00" x2="3092.50" y2="243.00" stroke="gray"/>
+  <text x="3142.00" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G6
+  </text>
+  <line x1="3261.70" y1="243.00" x2="3261.70" y2="144.00" stroke="gray"/>
+  <line x1="3261.70" y1="144.00" x2="3360.70" y2="144.00" stroke="gray"/>
+  <line x1="3360.70" y1="144.00" x2="3360.70" y2="243.00" stroke="gray"/>
+  <line x1="3360.70" y1="243.00" x2="3261.70" y2="243.00" stroke="gray"/>
+  <text x="3311.20" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A6
+  </text>
+  <line x1="3430.90" y1="243.00" x2="3430.90" y2="144.00" stroke="gray"/>
+  <line x1="3430.90" y1="144.00" x2="3529.90" y2="144.00" stroke="gray"/>
+  <line x1="3529.90" y1="144.00" x2="3529.90" y2="243.00" stroke="gray"/>
+  <line x1="3529.90" y1="243.00" x2="3430.90" y2="243.00" stroke="gray"/>
+  <text x="3480.40" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B6
+  </text>
+  <line x1="3769.30" y1="243.00" x2="3769.30" y2="144.00" stroke="gray"/>
+  <line x1="3769.30" y1="144.00" x2="3868.30" y2="144.00" stroke="gray"/>
+  <line x1="3868.30" y1="144.00" x2="3868.30" y2="243.00" stroke="gray"/>
+  <line x1="3868.30" y1="243.00" x2="3769.30" y2="243.00" stroke="gray"/>
+  <text x="3818.80" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    D6
+  </text>
+  <line x1="3938.50" y1="243.00" x2="3938.50" y2="144.00" stroke="gray"/>
+  <line x1="3938.50" y1="144.00" x2="4037.50" y2="144.00" stroke="gray"/>
+  <line x1="4037.50" y1="144.00" x2="4037.50" y2="243.00" stroke="gray"/>
+  <line x1="4037.50" y1="243.00" x2="3938.50" y2="243.00" stroke="gray"/>
+  <text x="3988.00" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    E5
+  </text>
+  <line x1="4276.90" y1="243.00" x2="4276.90" y2="144.00" stroke="gray"/>
+  <line x1="4276.90" y1="144.00" x2="4375.90" y2="144.00" stroke="gray"/>
+  <line x1="4375.90" y1="144.00" x2="4375.90" y2="243.00" stroke="gray"/>
+  <line x1="4375.90" y1="243.00" x2="4276.90" y2="243.00" stroke="gray"/>
+  <text x="4326.40" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    G6
+  </text>
+  <line x1="4446.10" y1="243.00" x2="4446.10" y2="144.00" stroke="gray"/>
+  <line x1="4446.10" y1="144.00" x2="4545.10" y2="144.00" stroke="gray"/>
+  <line x1="4545.10" y1="144.00" x2="4545.10" y2="243.00" stroke="gray"/>
+  <line x1="4545.10" y1="243.00" x2="4446.10" y2="243.00" stroke="gray"/>
+  <text x="4495.60" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    A6
+  </text>
+  <line x1="4615.30" y1="243.00" x2="4615.30" y2="144.00" stroke="gray"/>
+  <line x1="4615.30" y1="144.00" x2="4714.30" y2="144.00" stroke="gray"/>
+  <line x1="4714.30" y1="144.00" x2="4714.30" y2="243.00" stroke="gray"/>
+  <line x1="4714.30" y1="243.00" x2="4615.30" y2="243.00" stroke="gray"/>
+  <text x="4664.80" y="203.50" stroke="black" fill="black" text-anchor="middle"
+       font-size="40" font-family="Times, serif">
+    B6
+  </text>
+  <circle cx="181.00" cy="867.60" r="10" fill="black"/>
+  <line x1="181.00" y1="867.60" x2="181.00" y2="887.60" stroke="black"/>
+  <line x1="181.00" y1="887.60" x2="181.00" y2="100%" stroke="black"/>
+  <circle cx="350.20" cy="867.60" r="10" fill="black"/>
+  <line x1="350.20" y1="867.60" x2="371.65" y2="887.60" stroke="black"/>
+  <line x1="371.65" y1="887.60" x2="371.65" y2="100%" stroke="black"/>
+  <circle cx="519.40" cy="867.60" r="10" fill="black"/>
+  <line x1="519.40" y1="867.60" x2="562.29" y2="887.60" stroke="black"/>
+  <line x1="562.29" y1="887.60" x2="562.29" y2="100%" stroke="black"/>
+  <circle cx="688.60" cy="867.60" r="10" fill="black"/>
+  <line x1="688.60" y1="867.60" x2="677.88" y2="887.60" stroke="black"/>
+  <line x1="677.88" y1="887.60" x2="677.88" y2="100%" stroke="black"/>
+  <circle cx="857.80" cy="867.60" r="10" fill="black"/>
+  <line x1="857.80" y1="867.60" x2="868.52" y2="887.60" stroke="black"/>
+  <line x1="868.52" y1="887.60" x2="868.52" y2="100%" stroke="black"/>
+  <circle cx="1027.00" cy="867.60" r="10" fill="black"/>
+  <line x1="1027.00" y1="867.60" x2="1059.17" y2="887.60" stroke="black"/>
+  <line x1="1059.17" y1="887.60" x2="1059.17" y2="100%" stroke="black"/>
+  <circle cx="1196.20" cy="867.60" r="10" fill="black"/>
+  <line x1="1196.20" y1="867.60" x2="1249.81" y2="887.60" stroke="black"/>
+  <line x1="1249.81" y1="887.60" x2="1249.81" y2="100%" stroke="black"/>
+  <circle cx="1365.40" cy="867.60" r="10" fill="black"/>
+  <line x1="1365.40" y1="867.60" x2="1365.40" y2="887.60" stroke="black"/>
+  <line x1="1365.40" y1="887.60" x2="1365.40" y2="100%" stroke="black"/>
+  <circle cx="1534.60" cy="867.60" r="10" fill="black"/>
+  <line x1="1534.60" y1="867.60" x2="1556.05" y2="887.60" stroke="black"/>
+  <line x1="1556.05" y1="887.60" x2="1556.05" y2="100%" stroke="black"/>
+  <circle cx="1703.80" cy="867.60" r="10" fill="black"/>
+  <line x1="1703.80" y1="867.60" x2="1746.69" y2="887.60" stroke="black"/>
+  <line x1="1746.69" y1="887.60" x2="1746.69" y2="100%" stroke="black"/>
+  <circle cx="1873.00" cy="867.60" r="10" fill="black"/>
+  <line x1="1873.00" y1="867.60" x2="1862.28" y2="887.60" stroke="black"/>
+  <line x1="1862.28" y1="887.60" x2="1862.28" y2="100%" stroke="black"/>
+  <circle cx="2042.20" cy="867.60" r="10" fill="black"/>
+  <line x1="2042.20" y1="867.60" x2="2052.92" y2="887.60" stroke="black"/>
+  <line x1="2052.92" y1="887.60" x2="2052.92" y2="100%" stroke="black"/>
+  <circle cx="2211.40" cy="867.60" r="10" fill="black"/>
+  <line x1="2211.40" y1="867.60" x2="2243.57" y2="887.60" stroke="black"/>
+  <line x1="2243.57" y1="887.60" x2="2243.57" y2="100%" stroke="black"/>
+  <circle cx="2380.60" cy="867.60" r="10" fill="black"/>
+  <line x1="2380.60" y1="867.60" x2="2434.21" y2="887.60" stroke="black"/>
+  <line x1="2434.21" y1="887.60" x2="2434.21" y2="100%" stroke="black"/>
+  <circle cx="2549.80" cy="867.60" r="10" fill="black"/>
+  <line x1="2549.80" y1="867.60" x2="2549.80" y2="887.60" stroke="black"/>
+  <line x1="2549.80" y1="887.60" x2="2549.80" y2="100%" stroke="black"/>
+  <circle cx="2719.00" cy="867.60" r="10" fill="black"/>
+  <line x1="2719.00" y1="867.60" x2="2740.45" y2="887.60" stroke="black"/>
+  <line x1="2740.45" y1="887.60" x2="2740.45" y2="100%" stroke="black"/>
+  <circle cx="2888.20" cy="867.60" r="10" fill="black"/>
+  <line x1="2888.20" y1="867.60" x2="2931.09" y2="887.60" stroke="black"/>
+  <line x1="2931.09" y1="887.60" x2="2931.09" y2="100%" stroke="black"/>
+  <circle cx="3057.40" cy="867.60" r="10" fill="black"/>
+  <line x1="3057.40" y1="867.60" x2="3046.68" y2="887.60" stroke="black"/>
+  <line x1="3046.68" y1="887.60" x2="3046.68" y2="100%" stroke="black"/>
+  <circle cx="3226.60" cy="867.60" r="10" fill="black"/>
+  <line x1="3226.60" y1="867.60" x2="3237.32" y2="887.60" stroke="black"/>
+  <line x1="3237.32" y1="887.60" x2="3237.32" y2="100%" stroke="black"/>
+  <circle cx="3395.80" cy="867.60" r="10" fill="black"/>
+  <line x1="3395.80" y1="867.60" x2="3427.97" y2="887.60" stroke="black"/>
+  <line x1="3427.97" y1="887.60" x2="3427.97" y2="100%" stroke="black"/>
+  <circle cx="3565.00" cy="867.60" r="10" fill="black"/>
+  <line x1="3565.00" y1="867.60" x2="3618.61" y2="887.60" stroke="black"/>
+  <line x1="3618.61" y1="887.60" x2="3618.61" y2="100%" stroke="black"/>
+  <circle cx="3734.20" cy="867.60" r="10" fill="black"/>
+  <line x1="3734.20" y1="867.60" x2="3734.20" y2="887.60" stroke="black"/>
+  <line x1="3734.20" y1="887.60" x2="3734.20" y2="100%" stroke="black"/>
+  <circle cx="3903.40" cy="867.60" r="10" fill="black"/>
+  <line x1="3903.40" y1="867.60" x2="3924.85" y2="887.60" stroke="black"/>
+  <line x1="3924.85" y1="887.60" x2="3924.85" y2="100%" stroke="black"/>
+  <circle cx="4072.60" cy="867.60" r="10" fill="black"/>
+  <line x1="4072.60" y1="867.60" x2="4115.49" y2="887.60" stroke="black"/>
+  <line x1="4115.49" y1="887.60" x2="4115.49" y2="100%" stroke="black"/>
+  <circle cx="4241.80" cy="867.60" r="10" fill="black"/>
+  <line x1="4241.80" y1="867.60" x2="4231.08" y2="887.60" stroke="black"/>
+  <line x1="4231.08" y1="887.60" x2="4231.08" y2="100%" stroke="black"/>
+  <circle cx="4411.00" cy="867.60" r="10" fill="black"/>
+  <line x1="4411.00" y1="867.60" x2="4421.72" y2="887.60" stroke="black"/>
+  <line x1="4421.72" y1="887.60" x2="4421.72" y2="100%" stroke="black"/>
+  <circle cx="4580.20" cy="867.60" r="10" fill="black"/>
+  <line x1="4580.20" y1="867.60" x2="4612.37" y2="887.60" stroke="black"/>
+  <line x1="4612.37" y1="887.60" x2="4612.37" y2="100%" stroke="black"/>
+  <circle cx="4749.40" cy="867.60" r="10" fill="black"/>
+  <line x1="4749.40" y1="867.60" x2="4803.01" y2="887.60" stroke="black"/>
+  <line x1="4803.01" y1="887.60" x2="4803.01" y2="100%" stroke="black"/>
+  <circle cx="4918.60" cy="867.60" r="10" fill="black"/>
+  <line x1="4918.60" y1="867.60" x2="4918.60" y2="887.60" stroke="black"/>
+  <line x1="4918.60" y1="887.60" x2="4918.60" y2="100%" stroke="black"/>
+  <circle cx="265.60" cy="711.00" r="10" fill="black"/>
+  <line x1="265.60" y1="711.00" x2="256.06" y2="731.00" stroke="black"/>
+  <line x1="256.06" y1="731.00" x2="256.06" y2="100%" stroke="black"/>
+  <circle cx="434.80" cy="711.00" r="10" fill="black"/>
+  <line x1="434.80" y1="711.00" x2="487.23" y2="731.00" stroke="black"/>
+  <line x1="487.23" y1="731.00" x2="487.23" y2="100%" stroke="black"/>
+  <circle cx="773.20" cy="711.00" r="10" fill="black"/>
+  <line x1="773.20" y1="711.00" x2="752.94" y2="731.00" stroke="black"/>
+  <line x1="752.94" y1="731.00" x2="752.94" y2="100%" stroke="black"/>
+  <circle cx="942.40" cy="711.00" r="10" fill="black"/>
+  <line x1="942.40" y1="711.00" x2="943.58" y2="731.00" stroke="black"/>
+  <line x1="943.58" y1="731.00" x2="943.58" y2="100%" stroke="black"/>
+  <circle cx="1111.60" cy="711.00" r="10" fill="black"/>
+  <line x1="1111.60" y1="711.00" x2="1174.75" y2="731.00" stroke="black"/>
+  <line x1="1174.75" y1="731.00" x2="1174.75" y2="100%" stroke="black"/>
+  <circle cx="1450.00" cy="711.00" r="10" fill="black"/>
+  <line x1="1450.00" y1="711.00" x2="1440.46" y2="731.00" stroke="black"/>
+  <line x1="1440.46" y1="731.00" x2="1440.46" y2="100%" stroke="black"/>
+  <circle cx="1619.20" cy="711.00" r="10" fill="black"/>
+  <line x1="1619.20" y1="711.00" x2="1671.63" y2="731.00" stroke="black"/>
+  <line x1="1671.63" y1="731.00" x2="1671.63" y2="100%" stroke="black"/>
+  <circle cx="1957.60" cy="711.00" r="10" fill="black"/>
+  <line x1="1957.60" y1="711.00" x2="1937.34" y2="731.00" stroke="black"/>
+  <line x1="1937.34" y1="731.00" x2="1937.34" y2="100%" stroke="black"/>
+  <circle cx="2126.80" cy="711.00" r="10" fill="black"/>
+  <line x1="2126.80" y1="711.00" x2="2127.98" y2="731.00" stroke="black"/>
+  <line x1="2127.98" y1="731.00" x2="2127.98" y2="100%" stroke="black"/>
+  <circle cx="2296.00" cy="711.00" r="10" fill="black"/>
+  <line x1="2296.00" y1="711.00" x2="2359.15" y2="731.00" stroke="black"/>
+  <line x1="2359.15" y1="731.00" x2="2359.15" y2="100%" stroke="black"/>
+  <circle cx="2634.40" cy="711.00" r="10" fill="black"/>
+  <line x1="2634.40" y1="711.00" x2="2624.86" y2="731.00" stroke="black"/>
+  <line x1="2624.86" y1="731.00" x2="2624.86" y2="100%" stroke="black"/>
+  <circle cx="2803.60" cy="711.00" r="10" fill="black"/>
+  <line x1="2803.60" y1="711.00" x2="2856.03" y2="731.00" stroke="black"/>
+  <line x1="2856.03" y1="731.00" x2="2856.03" y2="100%" stroke="black"/>
+  <circle cx="3142.00" cy="711.00" r="10" fill="black"/>
+  <line x1="3142.00" y1="711.00" x2="3121.74" y2="731.00" stroke="black"/>
+  <line x1="3121.74" y1="731.00" x2="3121.74" y2="100%" stroke="black"/>
+  <circle cx="3311.20" cy="711.00" r="10" fill="black"/>
+  <line x1="3311.20" y1="711.00" x2="3312.38" y2="731.00" stroke="black"/>
+  <line x1="3312.38" y1="731.00" x2="3312.38" y2="100%" stroke="black"/>
+  <circle cx="3480.40" cy="711.00" r="10" fill="black"/>
+  <line x1="3480.40" y1="711.00" x2="3543.55" y2="731.00" stroke="black"/>
+  <line x1="3543.55" y1="731.00" x2="3543.55" y2="100%" stroke="black"/>
+  <circle cx="3818.80" cy="711.00" r="10" fill="black"/>
+  <line x1="3818.80" y1="711.00" x2="3809.26" y2="731.00" stroke="black"/>
+  <line x1="3809.26" y1="731.00" x2="3809.26" y2="100%" stroke="black"/>
+  <circle cx="3988.00" cy="711.00" r="10" fill="black"/>
+  <line x1="3988.00" y1="711.00" x2="4040.43" y2="731.00" stroke="black"/>
+  <line x1="4040.43" y1="731.00" x2="4040.43" y2="100%" stroke="black"/>
+  <circle cx="4326.40" cy="711.00" r="10" fill="black"/>
+  <line x1="4326.40" y1="711.00" x2="4306.14" y2="731.00" stroke="black"/>
+  <line x1="4306.14" y1="731.00" x2="4306.14" y2="100%" stroke="black"/>
+  <circle cx="4495.60" cy="711.00" r="10" fill="black"/>
+  <line x1="4495.60" y1="711.00" x2="4496.78" y2="731.00" stroke="black"/>
+  <line x1="4496.78" y1="731.00" x2="4496.78" y2="100%" stroke="black"/>
+  <circle cx="4664.80" cy="711.00" r="10" fill="black"/>
+  <line x1="4664.80" y1="711.00" x2="4727.95" y2="731.00" stroke="black"/>
+  <line x1="4727.95" y1="731.00" x2="4727.95" y2="100%" stroke="black"/>
+  <circle cx="265.60" cy="604.80" r="10" fill="black"/>
+  <line x1="265.60" y1="604.80" x2="296.59" y2="624.80" stroke="black"/>
+  <line x1="296.59" y1="624.80" x2="296.59" y2="100%" stroke="black"/>
+  <circle cx="434.80" cy="604.80" r="10" fill="black"/>
+  <line x1="434.80" y1="604.80" x2="446.71" y2="624.80" stroke="black"/>
+  <line x1="446.71" y1="624.80" x2="446.71" y2="100%" stroke="black"/>
+  <circle cx="604.00" cy="628.56" r="10" fill="black"/>
+  <line x1="604.00" y1="628.56" x2="637.35" y2="648.56" stroke="black"/>
+  <line x1="637.35" y1="648.56" x2="637.35" y2="100%" stroke="black"/>
+  <circle cx="773.20" cy="604.80" r="10" fill="black"/>
+  <line x1="773.20" y1="604.80" x2="793.46" y2="624.80" stroke="black"/>
+  <line x1="793.46" y1="624.80" x2="793.46" y2="100%" stroke="black"/>
+  <circle cx="942.40" cy="604.80" r="10" fill="black"/>
+  <line x1="942.40" y1="604.80" x2="984.11" y2="624.80" stroke="black"/>
+  <line x1="984.11" y1="624.80" x2="984.11" y2="100%" stroke="black"/>
+  <circle cx="1111.60" cy="604.80" r="10" fill="black"/>
+  <line x1="1111.60" y1="604.80" x2="1134.23" y2="624.80" stroke="black"/>
+  <line x1="1134.23" y1="624.80" x2="1134.23" y2="100%" stroke="black"/>
+  <circle cx="1280.80" cy="628.56" r="10" fill="black"/>
+  <line x1="1280.80" y1="628.56" x2="1324.88" y2="648.56" stroke="black"/>
+  <line x1="1324.88" y1="648.56" x2="1324.88" y2="100%" stroke="black"/>
+  <circle cx="1450.00" cy="604.80" r="10" fill="black"/>
+  <line x1="1450.00" y1="604.80" x2="1480.99" y2="624.80" stroke="black"/>
+  <line x1="1480.99" y1="624.80" x2="1480.99" y2="100%" stroke="black"/>
+  <circle cx="1619.20" cy="604.80" r="10" fill="black"/>
+  <line x1="1619.20" y1="604.80" x2="1631.11" y2="624.80" stroke="black"/>
+  <line x1="1631.11" y1="624.80" x2="1631.11" y2="100%" stroke="black"/>
+  <circle cx="1788.40" cy="628.56" r="10" fill="black"/>
+  <line x1="1788.40" y1="628.56" x2="1821.75" y2="648.56" stroke="black"/>
+  <line x1="1821.75" y1="648.56" x2="1821.75" y2="100%" stroke="black"/>
+  <circle cx="1957.60" cy="604.80" r="10" fill="black"/>
+  <line x1="1957.60" y1="604.80" x2="1977.86" y2="624.80" stroke="black"/>
+  <line x1="1977.86" y1="624.80" x2="1977.86" y2="100%" stroke="black"/>
+  <circle cx="2126.80" cy="604.80" r="10" fill="black"/>
+  <line x1="2126.80" y1="604.80" x2="2168.51" y2="624.80" stroke="black"/>
+  <line x1="2168.51" y1="624.80" x2="2168.51" y2="100%" stroke="black"/>
+  <circle cx="2296.00" cy="604.80" r="10" fill="black"/>
+  <line x1="2296.00" y1="604.80" x2="2318.63" y2="624.80" stroke="black"/>
+  <line x1="2318.63" y1="624.80" x2="2318.63" y2="100%" stroke="black"/>
+  <circle cx="2465.20" cy="628.56" r="10" fill="black"/>
+  <line x1="2465.20" y1="628.56" x2="2509.28" y2="648.56" stroke="black"/>
+  <line x1="2509.28" y1="648.56" x2="2509.28" y2="100%" stroke="black"/>
+  <circle cx="2634.40" cy="604.80" r="10" fill="black"/>
+  <line x1="2634.40" y1="604.80" x2="2665.39" y2="624.80" stroke="black"/>
+  <line x1="2665.39" y1="624.80" x2="2665.39" y2="100%" stroke="black"/>
+  <circle cx="2803.60" cy="604.80" r="10" fill="black"/>
+  <line x1="2803.60" y1="604.80" x2="2815.51" y2="624.80" stroke="black"/>
+  <line x1="2815.51" y1="624.80" x2="2815.51" y2="100%" stroke="black"/>
+  <circle cx="2972.80" cy="628.56" r="10" fill="black"/>
+  <line x1="2972.80" y1="628.56" x2="3006.15" y2="648.56" stroke="black"/>
+  <line x1="3006.15" y1="648.56" x2="3006.15" y2="100%" stroke="black"/>
+  <circle cx="3142.00" cy="604.80" r="10" fill="black"/>
+  <line x1="3142.00" y1="604.80" x2="3162.26" y2="624.80" stroke="black"/>
+  <line x1="3162.26" y1="624.80" x2="3162.26" y2="100%" stroke="black"/>
+  <circle cx="3311.20" cy="604.80" r="10" fill="black"/>
+  <line x1="3311.20" y1="604.80" x2="3352.91" y2="624.80" stroke="black"/>
+  <line x1="3352.91" y1="624.80" x2="3352.91" y2="100%" stroke="black"/>
+  <circle cx="3480.40" cy="604.80" r="10" fill="black"/>
+  <line x1="3480.40" y1="604.80" x2="3503.03" y2="624.80" stroke="black"/>
+  <line x1="3503.03" y1="624.80" x2="3503.03" y2="100%" stroke="black"/>
+  <circle cx="3649.60" cy="628.56" r="10" fill="black"/>
+  <line x1="3649.60" y1="628.56" x2="3693.68" y2="648.56" stroke="black"/>
+  <line x1="3693.68" y1="648.56" x2="3693.68" y2="100%" stroke="black"/>
+  <circle cx="3818.80" cy="604.80" r="10" fill="black"/>
+  <line x1="3818.80" y1="604.80" x2="3849.79" y2="624.80" stroke="black"/>
+  <line x1="3849.79" y1="624.80" x2="3849.79" y2="100%" stroke="black"/>
+  <circle cx="3988.00" cy="604.80" r="10" fill="black"/>
+  <line x1="3988.00" y1="604.80" x2="3999.91" y2="624.80" stroke="black"/>
+  <line x1="3999.91" y1="624.80" x2="3999.91" y2="100%" stroke="black"/>
+  <circle cx="4157.20" cy="628.56" r="10" fill="black"/>
+  <line x1="4157.20" y1="628.56" x2="4190.55" y2="648.56" stroke="black"/>
+  <line x1="4190.55" y1="648.56" x2="4190.55" y2="100%" stroke="black"/>
+  <circle cx="4326.40" cy="604.80" r="10" fill="black"/>
+  <line x1="4326.40" y1="604.80" x2="4346.66" y2="624.80" stroke="black"/>
+  <line x1="4346.66" y1="624.80" x2="4346.66" y2="100%" stroke="black"/>
+  <circle cx="4495.60" cy="604.80" r="10" fill="black"/>
+  <line x1="4495.60" y1="604.80" x2="4537.31" y2="624.80" stroke="black"/>
+  <line x1="4537.31" y1="624.80" x2="4537.31" y2="100%" stroke="black"/>
+  <circle cx="4664.80" cy="604.80" r="10" fill="black"/>
+  <line x1="4664.80" y1="604.80" x2="4687.43" y2="624.80" stroke="black"/>
+  <line x1="4687.43" y1="624.80" x2="4687.43" y2="100%" stroke="black"/>
+  <circle cx="688.60" cy="486.00" r="10" fill="black"/>
+  <line x1="688.60" y1="486.00" x2="718.40" y2="506.00" stroke="black"/>
+  <line x1="718.40" y1="506.00" x2="718.40" y2="100%" stroke="black"/>
+  <circle cx="857.80" cy="486.00" r="10" fill="black"/>
+  <line x1="857.80" y1="486.00" x2="909.05" y2="506.00" stroke="black"/>
+  <line x1="909.05" y1="506.00" x2="909.05" y2="100%" stroke="black"/>
+  <circle cx="1027.00" cy="486.00" r="10" fill="black"/>
+  <line x1="1027.00" y1="486.00" x2="1099.69" y2="506.00" stroke="black"/>
+  <line x1="1099.69" y1="506.00" x2="1099.69" y2="100%" stroke="black"/>
+  <circle cx="1196.20" cy="486.00" r="10" fill="black"/>
+  <line x1="1196.20" y1="486.00" x2="1290.34" y2="506.00" stroke="black"/>
+  <line x1="1290.34" y1="506.00" x2="1290.34" y2="100%" stroke="black"/>
+  <circle cx="1365.40" cy="486.00" r="10" fill="black"/>
+  <line x1="1365.40" y1="486.00" x2="1405.92" y2="506.00" stroke="black"/>
+  <line x1="1405.92" y1="506.00" x2="1405.92" y2="100%" stroke="black"/>
+  <circle cx="1534.60" cy="486.00" r="10" fill="black"/>
+  <line x1="1534.60" y1="486.00" x2="1596.57" y2="506.00" stroke="black"/>
+  <line x1="1596.57" y1="506.00" x2="1596.57" y2="100%" stroke="black"/>
+  <circle cx="1703.80" cy="486.00" r="10" fill="black"/>
+  <line x1="1703.80" y1="486.00" x2="1787.22" y2="506.00" stroke="black"/>
+  <line x1="1787.22" y1="506.00" x2="1787.22" y2="100%" stroke="black"/>
+  <circle cx="1873.00" cy="486.00" r="10" fill="black"/>
+  <line x1="1873.00" y1="486.00" x2="1902.80" y2="506.00" stroke="black"/>
+  <line x1="1902.80" y1="506.00" x2="1902.80" y2="100%" stroke="black"/>
+  <circle cx="2042.20" cy="486.00" r="10" fill="black"/>
+  <line x1="2042.20" y1="486.00" x2="2093.45" y2="506.00" stroke="black"/>
+  <line x1="2093.45" y1="506.00" x2="2093.45" y2="100%" stroke="black"/>
+  <circle cx="2211.40" cy="486.00" r="10" fill="black"/>
+  <line x1="2211.40" y1="486.00" x2="2284.09" y2="506.00" stroke="black"/>
+  <line x1="2284.09" y1="506.00" x2="2284.09" y2="100%" stroke="black"/>
+  <circle cx="2380.60" cy="486.00" r="10" fill="black"/>
+  <line x1="2380.60" y1="486.00" x2="2474.74" y2="506.00" stroke="black"/>
+  <line x1="2474.74" y1="506.00" x2="2474.74" y2="100%" stroke="black"/>
+  <circle cx="2549.80" cy="486.00" r="10" fill="black"/>
+  <line x1="2549.80" y1="486.00" x2="2590.32" y2="506.00" stroke="black"/>
+  <line x1="2590.32" y1="506.00" x2="2590.32" y2="100%" stroke="black"/>
+  <circle cx="2719.00" cy="486.00" r="10" fill="black"/>
+  <line x1="2719.00" y1="486.00" x2="2780.97" y2="506.00" stroke="black"/>
+  <line x1="2780.97" y1="506.00" x2="2780.97" y2="100%" stroke="black"/>
+  <circle cx="2888.20" cy="486.00" r="10" fill="black"/>
+  <line x1="2888.20" y1="486.00" x2="2971.62" y2="506.00" stroke="black"/>
+  <line x1="2971.62" y1="506.00" x2="2971.62" y2="100%" stroke="black"/>
+  <circle cx="3057.40" cy="486.00" r="10" fill="black"/>
+  <line x1="3057.40" y1="486.00" x2="3087.20" y2="506.00" stroke="black"/>
+  <line x1="3087.20" y1="506.00" x2="3087.20" y2="100%" stroke="black"/>
+  <circle cx="3226.60" cy="486.00" r="10" fill="black"/>
+  <line x1="3226.60" y1="486.00" x2="3277.85" y2="506.00" stroke="black"/>
+  <line x1="3277.85" y1="506.00" x2="3277.85" y2="100%" stroke="black"/>
+  <circle cx="3395.80" cy="486.00" r="10" fill="black"/>
+  <line x1="3395.80" y1="486.00" x2="3468.49" y2="506.00" stroke="black"/>
+  <line x1="3468.49" y1="506.00" x2="3468.49" y2="100%" stroke="black"/>
+  <circle cx="3565.00" cy="486.00" r="10" fill="black"/>
+  <line x1="3565.00" y1="486.00" x2="3659.14" y2="506.00" stroke="black"/>
+  <line x1="3659.14" y1="506.00" x2="3659.14" y2="100%" stroke="black"/>
+  <circle cx="3734.20" cy="486.00" r="10" fill="black"/>
+  <line x1="3734.20" y1="486.00" x2="3774.73" y2="506.00" stroke="black"/>
+  <line x1="3774.73" y1="506.00" x2="3774.73" y2="100%" stroke="black"/>
+  <circle cx="3903.40" cy="486.00" r="10" fill="black"/>
+  <line x1="3903.40" y1="486.00" x2="3965.37" y2="506.00" stroke="black"/>
+  <line x1="3965.37" y1="506.00" x2="3965.37" y2="100%" stroke="black"/>
+  <circle cx="4072.60" cy="486.00" r="10" fill="black"/>
+  <line x1="4072.60" y1="486.00" x2="4156.02" y2="506.00" stroke="black"/>
+  <line x1="4156.02" y1="506.00" x2="4156.02" y2="100%" stroke="black"/>
+  <circle cx="4241.80" cy="486.00" r="10" fill="black"/>
+  <line x1="4241.80" y1="486.00" x2="4271.60" y2="506.00" stroke="black"/>
+  <line x1="4271.60" y1="506.00" x2="4271.60" y2="100%" stroke="black"/>
+  <circle cx="4411.00" cy="486.00" r="10" fill="black"/>
+  <line x1="4411.00" y1="486.00" x2="4462.25" y2="506.00" stroke="black"/>
+  <line x1="4462.25" y1="506.00" x2="4462.25" y2="100%" stroke="black"/>
+  <circle cx="4580.20" cy="486.00" r="10" fill="black"/>
+  <line x1="4580.20" y1="486.00" x2="4652.89" y2="506.00" stroke="black"/>
+  <line x1="4652.89" y1="506.00" x2="4652.89" y2="100%" stroke="black"/>
+  <circle cx="4749.40" cy="486.00" r="10" fill="black"/>
+  <line x1="4749.40" y1="486.00" x2="4843.54" y2="506.00" stroke="black"/>
+  <line x1="4843.54" y1="506.00" x2="4843.54" y2="100%" stroke="black"/>
+  <circle cx="4918.60" cy="486.00" r="10" fill="black"/>
+  <line x1="4918.60" y1="486.00" x2="4959.13" y2="506.00" stroke="black"/>
+  <line x1="4959.13" y1="506.00" x2="4959.13" y2="100%" stroke="black"/>
+  <circle cx="773.20" cy="329.40" r="10" fill="black"/>
+  <line x1="773.20" y1="329.40" x2="833.99" y2="349.40" stroke="black"/>
+  <line x1="833.99" y1="349.40" x2="833.99" y2="100%" stroke="black"/>
+  <circle cx="942.40" cy="329.40" r="10" fill="black"/>
+  <line x1="942.40" y1="329.40" x2="1024.63" y2="349.40" stroke="black"/>
+  <line x1="1024.63" y1="349.40" x2="1024.63" y2="100%" stroke="black"/>
+  <circle cx="1111.60" cy="329.40" r="10" fill="black"/>
+  <line x1="1111.60" y1="329.40" x2="1215.28" y2="349.40" stroke="black"/>
+  <line x1="1215.28" y1="349.40" x2="1215.28" y2="100%" stroke="black"/>
+  <circle cx="1450.00" cy="329.40" r="10" fill="black"/>
+  <line x1="1450.00" y1="329.40" x2="1521.51" y2="349.40" stroke="black"/>
+  <line x1="1521.51" y1="349.40" x2="1521.51" y2="100%" stroke="black"/>
+  <circle cx="1619.20" cy="329.40" r="10" fill="black"/>
+  <line x1="1619.20" y1="329.40" x2="1712.16" y2="349.40" stroke="black"/>
+  <line x1="1712.16" y1="349.40" x2="1712.16" y2="100%" stroke="black"/>
+  <circle cx="1957.60" cy="329.40" r="10" fill="black"/>
+  <line x1="1957.60" y1="329.40" x2="2018.39" y2="349.40" stroke="black"/>
+  <line x1="2018.39" y1="349.40" x2="2018.39" y2="100%" stroke="black"/>
+  <circle cx="2126.80" cy="329.40" r="10" fill="black"/>
+  <line x1="2126.80" y1="329.40" x2="2209.03" y2="349.40" stroke="black"/>
+  <line x1="2209.03" y1="349.40" x2="2209.03" y2="100%" stroke="black"/>
+  <circle cx="2296.00" cy="329.40" r="10" fill="black"/>
+  <line x1="2296.00" y1="329.40" x2="2399.68" y2="349.40" stroke="black"/>
+  <line x1="2399.68" y1="349.40" x2="2399.68" y2="100%" stroke="black"/>
+  <circle cx="2634.40" cy="329.40" r="10" fill="black"/>
+  <line x1="2634.40" y1="329.40" x2="2705.91" y2="349.40" stroke="black"/>
+  <line x1="2705.91" y1="349.40" x2="2705.91" y2="100%" stroke="black"/>
+  <circle cx="2803.60" cy="329.40" r="10" fill="black"/>
+  <line x1="2803.60" y1="329.40" x2="2896.56" y2="349.40" stroke="black"/>
+  <line x1="2896.56" y1="349.40" x2="2896.56" y2="100%" stroke="black"/>
+  <circle cx="3142.00" cy="329.40" r="10" fill="black"/>
+  <line x1="3142.00" y1="329.40" x2="3202.79" y2="349.40" stroke="black"/>
+  <line x1="3202.79" y1="349.40" x2="3202.79" y2="100%" stroke="black"/>
+  <circle cx="3311.20" cy="329.40" r="10" fill="black"/>
+  <line x1="3311.20" y1="329.40" x2="3393.43" y2="349.40" stroke="black"/>
+  <line x1="3393.43" y1="349.40" x2="3393.43" y2="100%" stroke="black"/>
+  <circle cx="3480.40" cy="329.40" r="10" fill="black"/>
+  <line x1="3480.40" y1="329.40" x2="3584.08" y2="349.40" stroke="black"/>
+  <line x1="3584.08" y1="349.40" x2="3584.08" y2="100%" stroke="black"/>
+  <circle cx="3818.80" cy="329.40" r="10" fill="black"/>
+  <line x1="3818.80" y1="329.40" x2="3890.31" y2="349.40" stroke="black"/>
+  <line x1="3890.31" y1="349.40" x2="3890.31" y2="100%" stroke="black"/>
+  <circle cx="3988.00" cy="329.40" r="10" fill="black"/>
+  <line x1="3988.00" y1="329.40" x2="4120.80" y2="349.40" stroke="black"/>
+  <line x1="4120.80" y1="349.40" x2="4120.80" y2="100%" stroke="black"/>
+  <circle cx="4326.40" cy="329.40" r="10" fill="black"/>
+  <line x1="4326.40" y1="329.40" x2="4387.19" y2="349.40" stroke="black"/>
+  <line x1="4387.19" y1="349.40" x2="4387.19" y2="100%" stroke="black"/>
+  <circle cx="4495.60" cy="329.40" r="10" fill="black"/>
+  <line x1="4495.60" y1="329.40" x2="4577.83" y2="349.40" stroke="black"/>
+  <line x1="4577.83" y1="349.40" x2="4577.83" y2="100%" stroke="black"/>
+  <circle cx="4664.80" cy="329.40" r="10" fill="black"/>
+  <line x1="4664.80" y1="329.40" x2="4768.48" y2="349.40" stroke="black"/>
+  <line x1="4768.48" y1="349.40" x2="4768.48" y2="100%" stroke="black"/>
+  <circle cx="773.20" cy="223.20" r="10" fill="black"/>
+  <line x1="773.20" y1="223.20" x2="873.83" y2="243.20" stroke="black"/>
+  <line x1="873.83" y1="243.20" x2="873.83" y2="100%" stroke="black"/>
+  <circle cx="942.40" cy="223.20" r="10" fill="black"/>
+  <line x1="942.40" y1="223.20" x2="1064.48" y2="243.20" stroke="black"/>
+  <line x1="1064.48" y1="243.20" x2="1064.48" y2="100%" stroke="black"/>
+  <circle cx="1111.60" cy="223.20" r="10" fill="black"/>
+  <line x1="1111.60" y1="223.20" x2="1255.12" y2="243.20" stroke="black"/>
+  <line x1="1255.12" y1="243.20" x2="1255.12" y2="100%" stroke="black"/>
+  <circle cx="1450.00" cy="223.20" r="10" fill="black"/>
+  <line x1="1450.00" y1="223.20" x2="1561.35" y2="243.20" stroke="black"/>
+  <line x1="1561.35" y1="243.20" x2="1561.35" y2="100%" stroke="black"/>
+  <circle cx="1619.20" cy="223.20" r="10" fill="black"/>
+  <line x1="1619.20" y1="223.20" x2="1752.00" y2="243.20" stroke="black"/>
+  <line x1="1752.00" y1="243.20" x2="1752.00" y2="100%" stroke="black"/>
+  <circle cx="1957.60" cy="223.20" r="10" fill="black"/>
+  <line x1="1957.60" y1="223.20" x2="2058.23" y2="243.20" stroke="black"/>
+  <line x1="2058.23" y1="243.20" x2="2058.23" y2="100%" stroke="black"/>
+  <circle cx="2126.80" cy="223.20" r="10" fill="black"/>
+  <line x1="2126.80" y1="223.20" x2="2248.88" y2="243.20" stroke="black"/>
+  <line x1="2248.88" y1="243.20" x2="2248.88" y2="100%" stroke="black"/>
+  <circle cx="2296.00" cy="223.20" r="10" fill="black"/>
+  <line x1="2296.00" y1="223.20" x2="2439.52" y2="243.20" stroke="black"/>
+  <line x1="2439.52" y1="243.20" x2="2439.52" y2="100%" stroke="black"/>
+  <circle cx="2634.40" cy="223.20" r="10" fill="black"/>
+  <line x1="2634.40" y1="223.20" x2="2745.75" y2="243.20" stroke="black"/>
+  <line x1="2745.75" y1="243.20" x2="2745.75" y2="100%" stroke="black"/>
+  <circle cx="2803.60" cy="223.20" r="10" fill="black"/>
+  <line x1="2803.60" y1="223.20" x2="2936.40" y2="243.20" stroke="black"/>
+  <line x1="2936.40" y1="243.20" x2="2936.40" y2="100%" stroke="black"/>
+  <circle cx="3142.00" cy="223.20" r="10" fill="black"/>
+  <line x1="3142.00" y1="223.20" x2="3242.63" y2="243.20" stroke="black"/>
+  <line x1="3242.63" y1="243.20" x2="3242.63" y2="100%" stroke="black"/>
+  <circle cx="3311.20" cy="223.20" r="10" fill="black"/>
+  <line x1="3311.20" y1="223.20" x2="3433.28" y2="243.20" stroke="black"/>
+  <line x1="3433.28" y1="243.20" x2="3433.28" y2="100%" stroke="black"/>
+  <circle cx="3480.40" cy="223.20" r="10" fill="black"/>
+  <line x1="3480.40" y1="223.20" x2="3623.92" y2="243.20" stroke="black"/>
+  <line x1="3623.92" y1="243.20" x2="3623.92" y2="100%" stroke="black"/>
+  <circle cx="3818.80" cy="223.20" r="10" fill="black"/>
+  <line x1="3818.80" y1="223.20" x2="3930.15" y2="243.20" stroke="black"/>
+  <line x1="3930.15" y1="243.20" x2="3930.15" y2="100%" stroke="black"/>
+  <circle cx="3988.00" cy="223.20" r="10" fill="black"/>
+  <line x1="3988.00" y1="223.20" x2="4080.96" y2="243.20" stroke="black"/>
+  <line x1="4080.96" y1="243.20" x2="4080.96" y2="100%" stroke="black"/>
+  <circle cx="4326.40" cy="223.20" r="10" fill="black"/>
+  <line x1="4326.40" y1="223.20" x2="4427.03" y2="243.20" stroke="black"/>
+  <line x1="4427.03" y1="243.20" x2="4427.03" y2="100%" stroke="black"/>
+  <circle cx="4495.60" cy="223.20" r="10" fill="black"/>
+  <line x1="4495.60" y1="223.20" x2="4617.68" y2="243.20" stroke="black"/>
+  <line x1="4617.68" y1="243.20" x2="4617.68" y2="100%" stroke="black"/>
+  <circle cx="4664.80" cy="223.20" r="10" fill="black"/>
+  <line x1="4664.80" y1="223.20" x2="4808.32" y2="243.20" stroke="black"/>
+  <line x1="4808.32" y1="243.20" x2="4808.32" y2="100%" stroke="black"/>
+</svg>

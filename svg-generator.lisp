@@ -49,10 +49,10 @@
      (* (/ (log ratio) (log frame-interval))
         (- (cdr xpos-range) (car xpos-range)))))
 
-(defun create-hairpin (a b key-id scene)
+(defun create-hairpin (a b key-id scene tuning)
   (let* ((x-center (/ (+ (xp a) (xp b)) 2))
          (y-center (- (yp a) (* 0.4 (- x-center (xp a)))))
-         (line-center (ratio->xpos (id->ratio key-id) 16/1 *label-range*)))
+         (line-center (ratio->xpos (id->ratio key-id tuning) 16/1 *label-range*)))
     (draw scene (:circle :cx x-center
                          :cy y-center
                          :r 10
@@ -71,15 +71,25 @@
 (defun make-path (root modifier suffix)
   (format nil "~a-~a.~a" root modifier suffix))
 
-(defun generate-kbd (path svg-width svg-height)
+(defun generate-title (scene title)
+  (text scene (:x 0 :y 0
+               :stroke "black" :fill "black"
+               :font-family "Times, serif"
+               :font-size 35
+               :text-anchor "end"
+               :transform "translate(60,30) rotate(270)")
+    title))
+
+(defun generate-kbd (path path-extension svg-width svg-height tuning title)
   (with-svg-to-file (scene 'svg-1.2-toplevel
                            :width svg-width
                            :height svg-height)
-      ((make-path path "keyboard" "svg")
+      ((make-path path path-extension "svg")
        :if-exists :supersede
        :if-does-not-exist :create)
     ;; (draw scene (:circle :cx 200 :cy 150 :r 50) :fill "red")
     (draw scene (:rect :x 0 :y 0 :width "100%" :height "100%" :fill "white"))
+    (generate-title scene title)
     (let ((vertices (generate-vertices)))
       (setf *label-range* '(nil . nil))
       (dolist (row vertices)
@@ -95,15 +105,17 @@
           (create-hairpin (first key-shape)
                           (first (last key-shape))
                           (third (first key-shape))
-                          scene))))))
+                          scene
+                          tuning))))))
 
-(defun generate-interval-list (path path-extension svg-width svg-height interval-list)
+(defun generate-interval-list (path path-extension svg-width svg-height interval-list title)
   (with-svg-to-file (scene 'svg-1.2-toplevel :width svg-width :height svg-height)
       ((make-path path path-extension "svg")
        :if-exists :supersede
        :if-does-not-exist :create)
     (let ((padding 30))
       (draw scene (:rect :x 0 :y 0 :width "100%" :height "100%" :fill "white"))
+      (generate-title scene title)
       (loop for interval in interval-list
             for i from 1
             do (let ((center (ratio->xpos (second interval) 16/1 *label-range*))
@@ -137,7 +149,17 @@
   (setf *svg-y-shift* 900)
   (setf *svg-x-shift* 100)
 
-  (generate-kbd path 5100 1000)
-  (generate-interval-list path "lantica" 5100 1700 *intervals-lantica*)
-  (generate-interval-list path "pyth" 5100 460 *intervals-pythagorean*)
-  (generate-interval-list path "just" 5100 600 *intervals-just*))
+  (generate-kbd path "kbd-31ed2" 5100 1000 *dict-key-31-pitchclass*
+                "Ordini 1-5 in 31ed2, Ordine 6 in reinen Quinten.")
+  (generate-kbd path "kbd-31-mt" 5100 1000 *dict-key-31-mt-pitchclass*
+                "Ordini 1-5 in ¼-Komma-mitteltönig, G♭·-B♯, Ordine 6 in reinen Quinten.")
+  (generate-kbd path "kbd-adaptive-just" 5100 1000 *dict-key-adaptive-just-pitchclass*
+                "Ordini 1-3 in ¼-Komma-mitteltönig, Ordini 4-6 in reinen Quinten.")
+  (generate-interval-list path "intervals-lantica-31ed2" 5100 1700 *intervals-lantica-31ed2*
+                          "Intervalle aus »L'antica musica«, auf der Basis von 31ed2.")
+  (generate-interval-list path "intervals-lantica-mt" 5100 2200 *intervals-lantica-mt*
+                          "Intervalle aus »L'antica musica«, auf der Basis von ¼-Komma-mitteltönig, G♭·-B♯.")
+  (generate-interval-list path "intervals-pyth" 5100 460 *intervals-pythagorean*
+                          "Pythagoreische Intervalle.")
+  (generate-interval-list path "intervals-just" 5100 600 *intervals-just*
+                          "Intervalle der Reinen Stimmung."))
