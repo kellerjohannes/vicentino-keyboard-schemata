@@ -7,4 +7,5 @@
                (:file "keyboard-definitions")
                (:file "tex-generator")
                (:file "interval-definitions")
+               (:file "diagrams")
                (:file "svg-generator")))
