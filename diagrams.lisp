@@ -7,7 +7,7 @@
   (loop for i from lowest to highest
         collect (cons i (reduce-octave (expt generator-interval i)))))
 
-(defun generate-scale-diagram (path interval-list svg-width)
+(defun generate-scale-diagram (path interval-list svg-width &optional (framing-interval 2/1))
   (let ((x-margin 20)
         (y-margin 20))
     (with-svg-to-file (scene 'svg-1.2-toplevel :width svg-width :height 100)
@@ -15,7 +15,7 @@
       (draw scene (:rect :x 0 :y 0 :width "100%" :height "100%" :fill "white"))
       ;;(draw scene (:circle :cx 100 :cy 200 :r 15 :fill :red))
       (dolist (interval interval-list)
-        (let ((xpos (+ x-margin (* (/ (log (cdr interval)) (log 9/8))
+        (let ((xpos (+ x-margin (* (/ (log (cdr interval)) (log framing-interval))
                                    (- svg-width (* 2 x-margin))))))
           ;; (draw scene (:circle :cx xpos
           ;;                      :cy y-margin
@@ -30,3 +30,9 @@
                        :stroke "black" :fill "black"
                        :font-family "Times, serif")
             (format nil "~a" (car interval))))))))
+
+
+
+(defun edo (number-of-steps)
+  (loop for i from 0 to number-of-steps
+        collect (cons i (expt 2/1 (/ i number-of-steps)))))
