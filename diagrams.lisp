@@ -44,7 +44,7 @@
                           (- (* 4 (1- number-of-lines)) 2))))
     (with-svg-to-file (scene 'svg-1.2-toplevel :width width :height height)
         (path :if-exists :supersede :if-does-not-exist :create)
-      (draw scene (:rect :x 0 :y 0 :width "100%" :height "100%"))
+      (draw scene (:rect :x 0 :y 0 :width "100%" :height "100%" :fill "white"))
       (dotimes (line-id number-of-lines)
         (let ((ypos (+ margin (* line-id distance-between-lines))))
           (draw scene (:line :x1 margin :y1 ypos
