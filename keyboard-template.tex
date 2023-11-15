@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage[paperheight=10.1cm,paperwidth=15cm,margin=0.6cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{microtype}
+\usepackage{tikz} % for drawings / figures
+\usetikzlibrary{calc}
+\usetikzlibrary{positioning}
+\usepackage{floatpag} % for suppressing page nums in fullsize figures
+\usepackage{afterpage} % to flush fullsize figures
+\usepackage{pdflscape}
+
+
+\newcommand{\prop}[2]{#1\,:\,#2}
+\newcommand{\proptri}[3]{#1\,:\,#2\,:\,#3}
+\newcommand{\nns}[1]{\rotatebox[origin=c]{-14}{$\sharp$}}
+\newcommand{\nnn}[1]{\rotatebox[origin=c]{-14}{$\natural$}}
+\newcommand{\nnf}[1]{\rotatebox[origin=c]{-14}{$\flat$}}
+\newcommand{\minus}{\raisebox{.75pt}{-}}
+\newcommand{\noteName}[1]{$#1$}
+
+
+% voice id position duration propA propB noteName
+\newcommand{\createNote}[7]{%
+  \coordinate (#2) at ({#3*\minima},{ln(#5/#6)*\intervalFactor});%
+  \draw[line-#1] (#2) -- ++(#4*\minima,0);%
+  \node[note-#1] (n#2) at (#2) {\noteName{#7}};%
+}
+
+% voice id position propA propB noteName
+\newcommand{\createNoteHead}[6]{%
+  \coordinate (#2) at ({#3*\minima},{ln(#4/#5)*\intervalFactor});%
+  \node[note-#1] (n#2) at (#2) {\noteName{#6}};%
+}
+
+
+\begin{document}
+\pagestyle{empty}
+
+  \begin{tikzpicture}
+
+    \draw[thick] (0,0) -- (1,1);
+  \end{tikzpicture}
+\end{document}
