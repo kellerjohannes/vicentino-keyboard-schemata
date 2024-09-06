@@ -1,4 +1,4 @@
-(in-package :keyboard-generator)
+(in-package :vicentino-keyboard-generator)
 
 
 '("D2" "D5" "D3" "D6" "D1" "D4" "E3" "E6" "E2" "E5" "E1" "E4" "F3" "F1" "F4" "G2" "G5" "G3" "G6" "G1" "G4" "A2" "A5" "A3" "A6" "A1" "A4" "B3" "B6" "B2" "B5" "B1" "B4")

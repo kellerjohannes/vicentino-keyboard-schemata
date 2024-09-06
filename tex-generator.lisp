@@ -1,4 +1,4 @@
-(in-package :keyboard-generator)
+(in-package :vicentino-keyboard-generator)
 
 
 ;;;; tex / pikz output generation
