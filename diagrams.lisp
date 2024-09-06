@@ -1,4 +1,4 @@
-(in-package :vicentino-keyboard-generator)
+(in-package :vicentino-keyboard-schemata)
 
 (defun temper (interval fraction-of-sc)
   (* interval (expt 81/80 fraction-of-sc)))

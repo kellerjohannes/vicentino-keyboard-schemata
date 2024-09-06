@@ -1,4 +1,4 @@
-(in-package :vicentino-keyboard-generator)
+(in-package :vicentino-keyboard-schemata)
 
 (defun translation (figure x-shift y-shift key-nr)
   (mapcar #'(lambda (coord) (list (+ (first coord) x-shift) (+ (second coord) y-shift) key-nr)) figure))

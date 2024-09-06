@@ -1,4 +1,4 @@
-(in-package :vicentino-keyboard-generator)
+(in-package :vicentino-keyboard-schemata)
 
 
 ;; arciorgano, 1 octave, c-c

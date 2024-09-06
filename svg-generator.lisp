@@ -1,4 +1,4 @@
-(in-package :vicentino-keyboard-generator)
+(in-package :vicentino-keyboard-schemata)
 
 (defparameter *svg-scale-factor* 40)
 (defparameter *svg-y-shift* 500)

@@ -1,4 +1,4 @@
-(in-package :vicentino-keyboard-generator)
+(in-package :vicentino-keyboard-schemata)
 
 
 (defparameter *dict-key-labels* nil)
